@@ -635,9 +635,9 @@ Independientemente de la respuesta de los jugadores, Madam Eva se les queda mira
 Si los jugadores insisten en querer derrotar a Strahd, Madam Eva asiente. "Muy bien", dice ella. "Comencemos, pues". 
 ## C4f. La lectura de Tarokka
 
-> [!warning]+ **A New Prophecy**
+> [!warning]+ **Una nueva profecía**
 >
-> The tarokka reading has been modified in places from the original module. Substitute the RAW readings with those below where noted.
+> La lectura de tarokka se ha modificado en algunos aspectos respecto el módulo originales. Sustituye las lecturas abiertas por las que se describen a continuación.
 
 Madam Eva comienza la lectura de Tarokka sentándose sobre el suelo de tierra del cementerio, alcanzando su capa y sacando de ella tres viejas velas, las cuales clava en suelo y enciende con un movimiento de su mano. Luego, saca un mazo de cartas de Tarokka, que pone en el espacio del suelo entre las velas. Lee:
 
@@ -822,66 +822,66 @@ Este área es en gran medida como se describe en <span class = "citation">Cascad
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **Vladimir’s Fury**
+> [!lore]+ **La ira de Vladimir**
 >
-> This nameless **revenant** was banished, along with a dozen of its peers, from the ruins of Argynvostholt shortly after the failure of Doru’s rebellion three months ago.
+> Este **fantasma** sin nombre fue desterrado, junto con una docena de sus compañeros, de las ruinas de Argynvostholt poco después del fracaso de la rebelión de Doru tres meses atrás.
 >
-> When news of Strahd’s planned counterstroke reached them, the knights of the Order of the Silver Dragon raised their voices, begging Vladimir Horngaard to allow them to lend their swords to the cause.
+> Cuando les llegó la noticia de que Strahd planeaba contratacar, los caballeros de la Orden del Dragón de Plata alzaron sus voces, rogando a Vladimir Horngaard que les permitieran prestar sus espadas a la causa.
 >
-> Vladimir denied them and, when the knights grew enraged and unruly, banished them from the manor and forbade them from raising their swords against Strahd or any of his creatures. Now, only Sir Godfrey Gwilym, Vladimir Horngaard, and the spirits of the **phantom warriors** that once fought for the Order remain in Argynvostholt.
+> Vladimir se negó y, cuando los caballeros se enfurecieron y se revelaron, los desterró de la mansión y les prohibió que alzaran sus espadas contra Strahd o contra cualquiera de sus criaturas. Ahora, sólo Sir Godfrey Gwilym, Vladimir Horngaard y los espíritus de los **guerreros fantasma** que una vez lucharon por la Orden permanecen en Argynvostholt.
 
-If the players call out to this nameless **revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+Si los jugadores llaman a este **fantasma** sin nombre o ponen un pie en el puente, este les recibe con una voz ronca y les pregunta a sus intenciones. Tras escuchar su respuesta, este dice: "Antiguos quehaceres se remueven y el señor del Castillo Ravenloft deambula por el valle. Decidme: ¿Estáis a su servicio?".
 
-If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
+Si los jugadores afirman servir a Strahd, el fantasma se tensa visiblemente, pero se echa a un lado diciendo con frialdad, "Seguid, entonces, vuestro camino y que vuestro sucio trabajo os traiga ruina y desesperación".
 
-If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life. 
+Si los jugadores niegan servir a Strahd, el fantasma les resultará visiblemente aliviado y les invitará a acercarse para que pueda *"verlos más de cerca"*. Este se presenta como un caballero de la Orden del Dragón de Plata, pero afirma haber olvidado hace tiempo su nombre en vida. 
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
+Si las armas de los jugadores son claramente visibles, este pregunta a los jugadores si están en contra del señor de Castillo Ravenloft. Si los jugadores afirman estar en contra de Strahd, el fantasma les aconseja que viajen a Argynvostholt, hacia el oeste, donde Sir Godfrey Gwilym espera a quienes están dispuestos a alzar sus espadas contra la oscuridad que acecha en las profundidades del castillo.
 
-If the players inquire about the Order of the Silver Dragon, the revenant shares only that the knights of the Order opposed the lord of Ravenloft in life and suggests that the players speak with Sir Godfrey to obtain further information. If the players obtained the silver pendant in the watchtower by the River Ivlis Crossroad, the revenant recognizes it, but refuses to comment further on its significance.
+Si los jugadores le preguntan sobre la Orden del Dragón de Plata, el fantasma sólo comparte que los caballeros de la Orden se opusieron al señor de Ravenloft en vida y sugiere a los jugadores que hablen con Sir Godfrey para obtener más información. Si los jugadores recogieron el colgante de plata de la torre vigía junto la encrucijada del río Ivlis, el fantasma lo reconoce, pero se niega a comentar nada más sobre su significado.
 
-If the players ask the revenant why it is guarding the bridge, it says only, "Because I raised my voice against my commander and was banished. Now, I stand like my brothers- and sisters-in-arms, watching the dark places of this land and awaiting an order that will never come." 
+Si los jugadores preguntan al fantasma por qué está vigilando el puente, este sólo les dice: "Porque alcé mi voz contra mi comandante y fui desterrado por ello. Ahora me encuentro aquí parado como mis hermanos y hermanas de armas, observando los lugares oscuros de esta tierra y esperando una orden que nunca llegará".
 
-If the players ask why it cannot take up arms against Strahd itself, it says only, "Because my commander forbids it, and my spirit is bound from disobeying his will." It is willing to share that its commander's name is Sir Vladimir Horngaard, but is unwilling to share more, advising the players to speak with Sir Godfrey instead.
+Si los jugadores le preguntan por qué no puede tomar las armas contra Strahd por él mismo, sólo les dice: "Porque mi comandante me lo prohíbe y mi espíritu está obligado a ello por desobedecer su voluntad". Está dispuesto a compartir que el nombre de su comandante es Sir Vladimir Horngaard, pero no está dispuesto a compartir nada más, aconsejando a los jugadores que hablen con Sir Godfrey en su lugar.
 
-> [!abstract]+ **Secrets of Amber**
-> If the players ask the revenant about the "amber doors" mentioned in Madam Eva's Tarokka reading, it stiffens, then warns the players that they "meddle with things that ought not be meddled with." If the players reassure the revenant that their interest in the "amber doors" is directed at Strahd's defeat, the revenant hesitates, then informs them it is "bound never to reveal the secrets of that which we once guarded," but shares that Sir Godfrey can provide the information they seek.
+> [!abstract]+ **Secretos de Ámbar**
+> Si los jugadores preguntan al fantasma sobre las "puertas de ámbar" mencionadas en la lectura de Tarokka de Madam Eva, este se tensará y después advertirá a los jugadores que "se mantengan al margen de cosas en las que es mejor no inmiscuirse". Si los jugadores aseguran al fantasma que su interés en las "puertas de ámbar" tiene que ver con la derrota de Strahd, el fantasma duda y entonces les informa que está "obligado a no revelar nunca los secretos de lo que una vez protegimos", pero comparte que Sir Godfrey puede proporcionarles la información que buscan.
 
-> [!info]+ **The Oathbound Revenant**
-> Each revenant of the Order of the Silver Dragon has been bound by the effects of Vladimir Horngaard's ***oathbind*** feature, which binds them to obey Vladimir's express commands. The revenants of the Order, excepting Sir Godfrey Gwilym, have been given the following commands:
+> [!info]+ **Un fantasma ligado a un juramento**
+> Cada fantasma del Orden del Dragón de Plata se encuentra ligado a los efectos del rasgo ***Juramentar*** de Vladimir Horngaard, lo que les obliga a obedecer las órdenes expresas de Vladimir. A los fantasmas de la Orden, con excepción de Sir Godfrey Gwilym, se les han dado las siguientes órdenes:
 > 
-> * Do not betray the secrets of the Order of the Silver Dragon.
-> * Raise no weapon against the vampire Strahd von Zarovich, his servants, or his creatures.
-> * Do not return to Argynvostholt.
+> * No traicionarás los secretos de la Orden del Dragón de Plata.
+> * No alzaréis ningún arma contra el vampiro Strahd von Zarovich, sus sirvientes o sus criaturas.
+> * No regresaréis a Argynvostholt.
 >   
-> A revenant that violates one of these commands suffers the effects of a *geas* spell and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
+> Cualquier fantasma que traicione una de estas órdenes sufre los efectos del conjuro *Geas* y estará apresado hasta el inicio de su siguiente turno por alambres de espino negros. (Este efecto puede ser activado de manera ilimitada cada día. Como los fantasmas están ligados a los juramentos que prometieron a Vladimir en vida, este efecto no puede deshacerse).
 
-If the players ask for directions to Argynvostholt, the revenant advises them to travel "west, beyond the walled town, then south upon the ash-gray path."
+Si los jugadores solicitan indicaciones para llegar a Argynvostholt, el fantasma les aconseja viajar "hacia el oeste, más allá de la ciudad amurallada, y entonces ir al sur sobre el camino de color ceniza".
 
-If the players mention Strahd's carriage, the revenant notes its disgust for "the beast von Zarovich" and advises the players to be cautious of him and his servants and spies. If the players mention the skeletal rider, the revenant shares that "the Wandering One seeks a road to freedom through the mists. It will never succeed."
+Si los jugadores mencionan el carruaje de Strahd, el fantasma hace notar su aversión hacia "la bestia Von Zarovich" y aconseja a los jugadores que sean cautos con él y sus sirvientes y espías. Si los jugadores mencionan al jinete esquelético, el fantasma comparte que "el Errante busca un camino hacia la libertad a través de las brumas. Nunca lo conseguirá".
 
-Before the players depart, the revenant warns them to beware "those who walk in the skins of wolves," who haunt the forests to the west. "Once, they did not trouble those who traveled the roads," it rasps. "Something has changed, however, and now, their hunger for human flesh cannot be sated." (The revenant doesn't know where to find the werewolves' den, or any further information about the pack.)
+Antes de que los jugadores partan, el fantasma les advierte que vayan con cuidado con *"aquellos que caminan con pieles de lobo"*, los que frecuentan los bosques del oeste. *"Tiempo atrás, no molestaban a los que viajaban por los caminos"*, dice con voz raspada. *"Sin embargo, ahora algo ha cambiado y su hambre por la carne humana no puede ser saciada"*. (El fantasma no sabe dónde se encuentra la guarida de los hombres lobo o más información sobre la manada).
 
-The revenant will not leave its post on the bridge under any circumstances.
-# C8. Crossroads of Ravenloft
-<span class="citation"><em>This scene takes place in Chapter 2: Area I.</em></span>
+El fantasma no dejará su puesto en el puente bajo ninguna circunstancia.
+# C8. La encrucijada de Ravenloft
+<span class="citation"><em>Esta escena se desarrolla en el Capítulo 2: Área I.</em></span>
 
-The journey from Tser Falls to the Crossroads of Ravenloft is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
+El viaje desde las cataratas Tser hasta la encrucijada de Ravenloft es de una milla y media y conlleva unos treinta minutos. Mientras los jugadores hacen este viaje, lee:
 
-<div class="description"><p>You continue down the winding road, which climbs a short distance north before bending west to avoid a bald-headed peak on the right, its craggy cliffs bearing an array of sharp rocks that jut out over the roadway.</p>
-<p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
-<p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
+<div class="description"><p>Seguís avanzando por el sinuoso camino, que escala una pequeña distancia hacia el norte antes de curvarse hacia el oeste para evitar una cima pelada a la derecha, cargando sus acantilados escarpados con una variedad de rocas afiladas que sobresalen por encima del camino.</p>
+<p>No pasa mucho tiempo antes de que el camino se vuelva a curvar hacia el norte, surgiendo una segunda colina de la niebla a vuestra izquierda. Retorcidos árboles salpican sus laderas empinadas, sus ramas se extienden como nudosos dedos.</p>
+<p>A medida que avanzáis entre las colinas, el camino se estrecha y los acantilados se hacen cada vez más altos. Pronto, no obstante, las colinas se precipitan una vez más y el camino continúa adelante hacia una pequeña cuenca repleta de niebla.</p></div>
 
-This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
+Este área es como se describe en <span class = "citation">El carruaje negro (p. 37)</span>. (El carruaje de Strahd no está, aunque los jugadores pueden ver surcos profundos en el camino lleno de barro que van del Viejo camino de Svalich hasta el viejo paso cubierto de adoquines que conduce al Castillo de Ravenloft).
 
-The journey from the Crossroads of Ravenloft to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
+El viaje desde la encrucijada de Ravenloft hasta las **Puertas occidentales de Barovia** es de un cuarto de milla y conlleva unos cinco minutos. Este área es como se describe en <span class = "citation">Puertas de Barovia (p. 33)</span>, pero visto desde el lado opuesto.
 
-> [!abstract]+ **Visiting Castle Ravenloft**
-> If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
-# C9. Old Bonegrinder
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+> [!abstract]+ **Visitando el Castillo Ravenloft**
+> Si los jugadores deciden visitar el Castillo Ravenloft (p.e. para investigar la desaparición de Gertruda), el viaje desde la encrucijada es de dos millas y media y conlleva unos 50 minutos. Cuando los jugadores lleguen, el exterior del castillo es como se describe en [[Arco P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
+# C9. El Viejo Machacahuesos
+<span class="citation"><em>Esta escena se desarrolla en el Capítulo 6: Área O.</em></span>
 
-The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
+El viaje desde las Puertas de Barovia hasta el **Viejo Machacahuesos** es de dos millas y media y conlleva unos cuarenta y cinco minutos. Mientras los jugadores hacen este viaje, lee:
 
 <div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
 <p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone stele standing just under six feet in height. It sits within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p></div>
