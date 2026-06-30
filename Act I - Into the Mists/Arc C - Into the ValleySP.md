@@ -883,124 +883,128 @@ El viaje desde la encrucijada de Ravenloft hasta las **Puertas occidentales de B
 
 El viaje desde las Puertas de Barovia hasta el **Viejo Machacahuesos** es de dos millas y media y conlleva unos cuarenta y cinco minutos. Mientras los jugadores hacen este viaje, lee:
 
-<div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
-<p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone stele standing just under six feet in height. It sits within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p></div>
+<div class="description"><p>El camino continúa recto, atravesando una zona de bosque oscuro. Aquí el ambiente es tan callado como una tumba, los árboles se mantienen perfectamente erguidos en un silencio perturbador.</p> 
+<p>No muy lejos del camino, ubicada entre la descuidada maleza, se encuentra una losa de piedra cubierta de musgo de poco menos que seis pies de altura. Esta descansa sobre un viejo círculo de piedra agrietado y parece contener algún tipo de talla.</p></div>
 
-Briefly pause to allow the players to act or react. If the players choose to investigate the slab, they find that it bears a crude carving of a raven over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Seeker, and the three-pointed star the symbol of the Ladies Three.)
+Realiza una breve pausa para permitir que los jugadores actúen o reaccionen. Si los jugadores eligen investigar la losa, estos encuentran que tiene una talla rudimentaria de un cuervo sobre una estrella grabada de tres puntas, las muescas están bordeadas por líquenes y musgo. (La losa es un antiguo monumento a la Buscadora y la estrella de tres puntas es el símbolo de las Tres Damas).
 
-If the players remain silent or continue ahead, read:
+Si los jugadores permanecen en silencio o siguen adelante, lee:
 
-<div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
+<div class="description"><p>El camino pronto vuelve a salir del bosque una vez más, virando entre dos colinas. Poco después, se curva hacia el norte, abrazando la base de una montaña.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
+Los jugadores aparecen en la base de la colina sobre la cual descansa **el Viejo Machacahuesos**, como se describe en <span class = "citation">Llegada al molino (p. 125)</span>. No hay cuervos en o cerca del molino.
 
-As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+<div class="description"><p>El viejo camino de Svalich atraviesa sinuoso las montañas; para llegar hasta aquí se transforma en un exiguo sendero que abraza la ladera y desciende a un brumoso valle. En el corazón del valle, podéis ver una ciudad amurallada junto a las orillas de un gran lago alpino de aguas oscuras y tranquilas. Una bifurcación en el camino conduce a un promontorio hacia el oeste, sobre el que se alza un ruinoso molino de piedra, cuyas aspas de madera están desnudas.</p>
+<p>La cúpula con forma de cebolla del edificio está inclinada hacia adelante y hacia un lado, como si tratara de huir del tormentoso cielo gris. Veis paredes de ladrillo gris y ventanas roñosas en las plantas superiores. Una decrépita pasarela de madera rodea el molino de viento sobre una endeble puerta que conduce a su interior.</p></div>
 
-This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
+A medida que el molino se vislumbra, los jugadores también ven a **Morgantha** acercándose desde la dirección opuesta con su carro, como se describe en <span class = "citation">Pasteles de ensueño (p. 48)</span>.
+
+Esta escena se desarrolla en gran medida como se describe en <span class = "citation">Pasteles de ensueño (p. 48)</span>, pero Morgantha vuelve de la ciudad de Vallaki, no de la aldea de Barovia, y no lleva a un niño metido en un saco dentro de su carrito de vendedora ambulante.
+
+<div class="description"><p>Escucháis el sonido de unas ruedas pequeñas de madera que traquetean sobre los adoquines húmedos. El ruido os lleva hasta una solitaria figura jorobada y cubierta con harapos, que empuja un desvencijado carro de madera a través de la niebla.</p></div>
 
 ![[Morgantha_Disguised.png]]
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Morgantha, Dream Peddler**
-> **Roleplaying Information**
-> ***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
+> [!profile]+ **Perfil: Morgantha, la vendedora de sueños ambulante**
+> **Información para interpretarla**
+> ***Conexión.*** Cuando los jugadores la conocen, Morgantha debería inspirarles adulación y comodidad con su encanto de abuelita, gratitud por su disposición a compartir cumplidos y "muestras gratuitas", cariño por sus quejas sobre las problemas mundanos de la vida de una anciana y una ligera cautela por su confianza en sí misma y por su comodidad al viajar sola por un camino peligroso.
 > 
-> ***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
+> ***Emociones.*** Morgantha a menudo parece sentirse alegre, entretenida o reflexiva.
 > 
-> ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
+> ***Motivaciones.*** Morgantha quiere seguir manteniendo su tapadera, operar tranquilamente su negocio, hacer que los extraños sientan cariño y comodidad hacia y junto a ella, y alentar a otros a probar sus pasteles de ensueño si parecen tentados a hacerlo.
 > 
-> ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
+> ***Inspiraciones.*** Cuando juegues a Morgantha, canaliza a Granny WeatherWax (*Discomundo*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Morgantha es una anciana alegre que ama el cotilleo y quejarse. Sólo Morgantha y sus hijas saben el secreto de que esta es en realidad la perversa matriarca de un aquelarre de sagas de la noche.
 > 
-> ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
+> ***Moral.*** En una pelea, Morgantha intentaría dialogar en favor de la paz y, después, usaría su habilidad ***Etérea*** para escapar al Plano Etéreo si su sugerencia parece ser en vano.
 > 
-> ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+> ***Relaciones.*** Morgantha es la madre de las **sagas de la noche** Bella y Offalia, y la vendedora de pasteles de ensueño para el refugiado baroviano [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
 
-Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
+Morgantha saluda a los jugadores calurosamente, llamándolos "cansados viajeros", y comparte su deseo de que el camino no haya sido demasiado duro para ellos. Esta comparte libremente la siguiente información si se le pregunta:
 
-* She is a peddler who sells baked wares to the "good people of Barovia."
-* She is just returning from a day peddling her goods to the townsfolk of Vallaki and the "poor, hungry dears" camped outside the gates. (Her latter comment is referring to a camp of Barovian refugees that has not been allowed to enter the town.)
-* She lives in the old windmill up the hill with her two daughters, Bella and Offalia. (She kindly declines to share what happened to her "husband," saying only, "Now, that's an old woman's business, meant to be shared only if she chooses.")
+* Es una vendedora ambulante que vende productos horneados a la "buena gente de Barovia".
+* Justo está regresando de pasar todo el día vendiendo sus productos a la gente del pueblo de Vallaki y sus "pobres y hambrientos cariñitos", que acampan fuera de las puertas del pueblo. (Su último comentario se refiere al campamento de refugiados barovianos a los que no se les ha permitido entrar en la ciudad).
+* Vive en el viejo molino sobre la colina con sus dos hijas, Bella y Offalia. (Esta rechaza amablemente compartir lo que le sucedió a su "esposo", diciendo sólo: "Bueno, eso es sólo asunto de esta vieja anciana, por lo que sólo se debe compartir si ella lo desea").
 
-Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (The dream pastries, if eaten, affect the players as described in **Dream Pastries**, p. 125.)
+A Morgantha aún le quedan algunos "pasteles de ensueño" de su jornada laboral, "rellenos con la luz y el amor de los sueños", los cuales ofrece a los jugadores de forma gratuita como una "primera muestra". Esta recomienda a los jugadores que los pasteles de ensueño saben mejor después de una comida caliente, "especialmente con un poco de vino para que pasen bien". (Los pasteles de ensueño, si se comen, afectan a los jugadores como se describe en **Pasteles de sueños**, p. 125).
 
-If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
+Si se le pregunta cómo se las arregla para viajar por las carreteras de manera segura, Morgantha sólo sonríe y promete a los jugadores que "una anciana tiene sus truquitos". ("Pero", se queja, "mi espalda y mis pobres pies se me resienten de vez en cuando. Estoy deseando meterlos en una buena bañera de agua calentita en cuanto llegue a casa").
 
-If the players ask to enter her home, Morgantha apologizes for her lack of hospitality, but notes that she's tired and not prepared for visitors, besides. (The players are welcome, she says, to visit another day if they'd like.)
+Si los jugadores le piden pasar a su casa, Morgantha se disculpa por su falta de hospitalidad, pero señala que está algo cansada y que además no está preparada para recibir adecuadamente a los visitantes. (Los jugadores son bienvenidos, dice ella, de visitarla otro día si así lo desean).
 
-When the conversation runs out of steam, Morgantha bids the players a safe journey, and lets them know that they can find her outside of Vallaki's gates in the future, should they like to purchase additional pastries.
+Cuando la conversación pierda fuelle, Morgantha desea a los jugadores que tengan un viaje seguro y les hace saber que podrán encontrarla en las afueras de las puertas de Vallaki en el futuro, si estos quisieran comprar algunos pasteles más.
 
-Before she departs, Morgantha warns the players that the guards at the Vallaki gates are confiscating silver coins and visible silver items from travelers as a tax. "But," she says, tapping her nose with a cheeky, half-toothed grin, "you didn't hear it from me."
+Antes de partir, Morgantha advierte a los jugadores de que los guardias apostados en las puertas de Vallaki están confiscando monedas de plata y artículos que sean visiblemente de plata a los viajeros como peaje. "Pero", dice ella dándose golpecitos en la nariz con una sonrisa descarada y sin la mitad de los dientes, "yo no os he dicho nada".
 
-> [!abstract]+ **Morgantha Detected**
-> If a player discerns Morgantha's fiendish nature, such as by using a paladin's ***divine sense***, and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
+> [!abstract]+ **Morgantha descubierta**
+> Si un jugador identifica la naturaleza diabólica de Morgantha, utilizando, por ejemplo, los ***Sentidos Divinos*** del paladín, y la confronta, esta hará una pausa y, después, les felicita por su perspicacia. Luego, sonríe dulcemente y señala que no está violando ninguna ley, mientras pregunta: "¿Es un delito ser como una fue creada?". Si un jugador insiste en atacarla, esta añade: "¿Y tal delito exige una ejecución inmediata?".
 > 
-> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***etherealness*** feature, cackling. 
+> Si los jugadores insisten en ejecutarla, esta inmediatamente se arrodillará, suplicando sarcásticamente clemencia y una oportunidad de arrepentirse. "Permitidme regresar a mi casa y arrepentirme de mis pecados", añade sonriendo. Si se le ataca, esta desaparece usando su rasgo ***Etérea***, mientras se ríe a carcajadas.
 > 
-> If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc H - The Lost Soul]] begins.)
-# C10. The Deep Woods
-The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-quarter miles long and takes two hours. As the players make this journey, read:
+> Si los jugadores se acercan al molino, esta avisa a Bella y a Offalia, quienes se unirán a ella en el Plano Etéreo. Si los jugadores intentan dañar o destruir el molino, las sagas regresan al Plano Material y les advierten que se detengan si no quieren morir. Ver [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] para obtener más información sobre el conflicto con las sagas. (En este momento, en el molino no hay ningún niño y no lo habrá hasta que comience el  [[Arc H - The Lost Soul]].
+# C10. En la profundidad del bosque
+El viaje del Viejo Machacahuesos hasta el **pueblo de Vallaki** es de cinco millas y tres cuartos y conlleva unas dos horas. Mientras los jugadores realicen este camino, lee:
 
-<div class="description"><p>The winding valley road hugs the mountainside as it meanders north. The dark woods cling to the opposite side of the road, the tall, gnarled trees creeping as close as they dare. You can hear the sound of the wind rustling through the leaves and the occasional creak of branches. From time to time, it almost sounds like the trees are whispering among themselves, or stirring their ancient roots in the old, rotten mulch.</p>
-<p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
-<p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
+<div class="description"><p>El sinuoso camino del valle abraza la ladera de la montaña y serpentea hacia el norte. El oscuro bosque se aferra al lado opuesto del camino, acercándose los altos y retorcidos árboles a este todo lo que pueden. Podéis escuchar el sonido del viento pasar a través de las hojas y el crujido ocasional de las ramas. De vez en cuando, casi parece que los árboles están susurrándose entre ellos o agitando sus ancianas raíces en el viejo y podrido mantillo.</p>
+<p>A medida que el camino avanza, el bosque lo engulle por ambos lados. Los árboles se elevan muy por encima de vuestras cabezas, bloqueando todo menos los más simples rayos de luz gris. El aire se vuelve cada vez más espeso y pesado con el aroma del musgo y las hojas podridas; a lo lejos, escucháis el graznido gorgoteante de un cuervo, seguido de un sonido de alas revoloteando.</p>
+<p>Pronto os queda claro que vuestra presencia en esta tierra deprimente no ha pasado desapercibida. Un cuervo os sigue durante varios minutos, manteniéndose a una distancia prudencial.</p></div>
 
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+Este encuentro se desarrolla como se describe en <span class = "citation">Enjambres de cuervos (p. 30)</span>: dos **enjambres de cuervos** salen al encuentro del grupo y lo siguen. Si Muriel está con el grupo y puede volar, esta, aún de incógnito, alzará el vuelo para unirse a la bandada, pero seguirá estando ojo avizor con los jugadores mientras estos continúan su viaje. 
 
-As the players proceed down the road, read:
+A medida que los jugadores avancen por el camino, lee:
 
-<div class="description"><p>Ahead, the trees to the north break, revealing a grassy field. The tall grasses sway in the chill air, the field stretching until it reaches the shores of a dark, distant lake. Fog clings to the shoreline. Even from a distance, you can hear the faint sound of water lapping against the rocks.</p></div>
+<div class="description"><p>Ante vosotros, los árboles al norte se abren, desvelando un campo cubierto de hierba. La hierba alta se balancea en el aire fresco, el campo se extiende hasta tocar las orillas de un oscuro y distante lago. La niebla se aferra a la línea de costa. Incluso desde la distancia, podéis escuchar el leve sonido del agua rompiendo contra las rocas.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
+Si [[Non-Player Characters#Ireena Kolyana|Ireena]] está en el equipo, esta se detendrá de golpe y preguntará a los jugadores si el grupo puede desviarse un instante a través del campo hasta el lago. Si se le pregunta, sólo señala que el lago le resulta extrañamente familiar.
 
-Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible. 
+El lago Zarovich es como se describe en <span class = "citation">L. Lago Zarovich (p. 38)</span>, pero sin los botes de remo amarrados ni el bote de Bluto visible.
 
-Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
+Al llegar a la orilla del lago, Ireena señala con temor que este parece ser el mismo lago que ha visto en sus sueños. (Si aún no la ha compartido, Ireena cuenta la historia de su sueño descrita más arriba en [[#C4d. El fuego danzante]]).
 
-Ireena is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
-# C11. The Werewolves' Hunt
-As the players continue down the road, read:
+Ireena está segura, no obstante, que nunca ha visitado este lago con Ismark y su padre Kolyan. No está segura de las implicaciones, pero se queda ensimismada si un jugador le recuerda que su padre la encontró deambulando por el Viejo bosque de Svalich cuando era niña.
+# C11. La caza de los hombres lobo
+A medida que los jugadores sigan avanzando en el camino, lee:
 
-<div class="description"><p>As quickly as it appeared, the field is swallowed up by the forest again, the trees closing in around you once more. The dark undergrowth rustles and stirs in the wind, and the weight of the forest presses in from all sides. You're unable to shake the sense that, somehow, you're being watched.</p></div>
+<div class="description"><p>Tan rápido como pareció, el campo es engullido por el bosque nuevamente, acercándose los árboles a vuestro alrededor una vez más. La oscura maleza se agita y se remueve en el viento, y el peso del bosque os presiona desde ambos lados. No podéis quitaros de encima la sensación de que, de alguna manera, estáis siendo observados.</p></div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Si uno de los jugadores tiene una puntuación de Sabiduría (Percepción) pasiva de 14 o más, o si uno de los jugadores tiene éxito en una tirada de Sabiduría (Percepción) CD 14, añade:
 
 <div class="description">
-<p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
-</div>
+<p>Una sombra humanoide parpadea en la distancia. Después, desaparece de la vista.</p></div>
 
-The shadow belongs to a **werewolf**. Its companions—three **wolves** and an additional **werewolf**—lurk in the woods nearby.
+La sombra pertenece a un **hombre lobo**. Sus compañeros, tres **lobos** y un **hombre lobo** más, acechan en el bosque cercano.
 
-The werewolves don't attack immediately, preferring to wait for the perfect time to strike. If the players continue down the road, read:
+Los hombres lobo no atacarán de inmediato, prefiriendo esperar al momento perfecto para ello. Si los jugadores continúan por el camino, lee:
 
-<div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
-<p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
+<div class="description"><p>El camino del bosque os lleva a través de un pequeño claro boscoso, la línea circular de árboles está repleta de espesos matorrales, rocas cubiertas de musgo y riscos escarpados.</p>
+<p>Entonces, sin previo aviso, ¡cinco lobos saltan del bosque, con sus ojos amarillos brillando mientras sus hocicos se curvan en gruñidos!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Haz que los jugadores, los **lobos**, los **hombres lobo** (en forma de lobo), y (si están con el grupo) Ireena, los dos **enjambres de cuervos** y Muriel (una **mujer cuervo** en forma de cuervo) tiren iniciativa. Cualquier personaje con una puntuación de Sabiduría (Percepción) pasiva inferior a 14 estará sorprendido.
 
-Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
+Modifica las tablas de estadísticas de los lobos como se describe en [[#C7a. El barranco]]. Además, usa la tabla de estadísticas siguiente para los hombres lobo, en lugar de la del *Manual de monstruos*:
 
 <div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
+<h2>Hombre lobo</h2>
+<em>Humanoide mediano (Humano, Cambiaformas), Caótico Malvado</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<strong>Clase de Armadura</strong> 11 en forma humanoide, 12 (armadura natural) en forma de lobo o híbrida
 <br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
+<strong>Puntos de Golpe</strong> 84 (13d8 + 26)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Velocidad</strong> 30 pies (40 pies en forma de lobo)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
+      <th>FUE</th>
+      <th>DES</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAB</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1015,183 +1019,181 @@ Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition,
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Tiradas de Salvación</strong> Fue +5<br>
+<strong>Habilidades</strong> Percepción +4, Sigilo +3<br>
+<strong>Sentidos</strong> Visión en la oscuridad 60 pies, Percepción pasiva 14<br>
+<strong>Idiomas</strong> Común (no puede hablar en forma de lobo)<br>
+<strong>Desafío</strong> 3 o 2 sin su regeneración<br>
+<strong>Bonus de Competencia.</strong> +2<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
+<p><strong><em>Oído y olfato agudos.</em></strong> El hombre lobo tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o del olfato.</p>
+<p><strong><em>Tácticas de manada.</em></strong> El hombre lobo tiene ventaja en tiradas de ataque contra una criatura si al menos un hombre lobo aliado se encuentra a 5 pies de la criatura y el aliado no se encuentra incapacitado.</p>
+<p><strong><em>Regeneración.</em></strong> El hombre lobo recupera 10 puntos de golpe al principio de su turno. Si el hombre lobo sufre daño necrótico o daño contundente, perforante o cortante de un arma de plata, este rasgo no tiene efecto al inicio del siguiente turno del hombre lobo. El hombre lobo muere sólo si empieza su turno con 0 puntos de golpe y no se regenera.</p>
+<h3>Acciones</h3>
+<p><strong><em>Ataque múltiple.</em></strong> El hombre lobo realiza dos ataques: dos con su lanza (forma humanoide) o uno con su mordisco y uno con sus garras (forma de lobo o híbrida).</p>
+<p><strong><em>Mordisco (sólo en forma de lobo o híbrida).</em></strong> <em>Ataque con arma cuerpo a cuerpo</em>: +5 a impactar, alcance 5 pies, un objetivo. <em>Daño:</em> 7 (1d8 + 3) de daño perforante. En vez de hacer daño, el hombre lobo puede agarrar a su objetivo (CD 11 para escapar). Además, si el objetivo es un humanoide, deberá tener éxito en una tirada de salvación de Constitución CD 13 o estará maldito con la licantropía de los hombres lobo.</p>
+<p><strong><em>Garras (sólo en forma de lobo o híbrida).</em></strong> <em>Ataque con arma cuerpo a cuerpo:</em> +5 a impactar, alcance 5 pies, una criatura. <em>Daño:</em> 8 (2d4 + 3) de daño cortante. Si el objetivo es una criatura, esta debe tener éxito en una tirada de salvación de Fuerza CD 13 o caer derribada.</p>
+<p><strong><em>Lanza (sólo forma humanoide).</em></strong> <em>Ataque con arma cuerpo a cuerpo o a distancia:</em> +5 a impactar, alcance 5 pies o alcance 20/60 pies, una criatura. <em>Daño:</em> 6 (1d6 + 3) de daño perforante o 7 (1d8 + 3) de daño perforante si se usa a dos manos para hacer un ataque cuerpo a cuerpo.</p>
+<h3>Acciones adicionales</h3>
+<p><strong><em>Cambiaformas.</em></strong> El hombre lobo puede polimorfarse en un híbrido humanoide-lobo, en un lobo o de vuelta a su aspecto verdadero, que es el de un humanoide. Su perfil, con la excepción de su CA, es el mismo en todas las formas. Cualquier elemento de equipo que lleve o vista se fusiona en la nueva forma. Si muere, volverá a su forma verdadera.</p>
 </div>
 
+Durante el combate, los **lobos** trabajan juntos, utilizando sus ***garras*** para derribar a los personajes y, luego, usando su ***vapulear*** para agarrar objetivos derribados. Una vez que los lobos hayan arrastrado a un personaje agarrado lejos de grupo, los **hombres lobo** se centrarán en atacarlo con su ***mordisco***. El primer personaje que sea objetivo de esta táctica se dará cuenta de que los hombres lobo son ligeramente más grandes que los otros tres lobos y que tienen ojos inteligentes e inquietantemente humanos.
 
-In combat, the **wolves** work together, using their ***Claws*** to knock characters prone, then using their ***Maul*** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its ***bite***. The first character targeted in this way notices that the werewolves are slightly larger than the other three and have intelligent, disturbingly human eyes.
+Un hombre lobo huye si comienza su turno con 20 puntos de golpe o menos y no se puede regenerar, o si comienza su turno con 0 puntos de golpe durante tres turnos seguidos. Cualquier lobo superviviente le sigue poco después.
 
-A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
+Si los hombres lobo mueren, estos vuelven a su forma auténtica: un hombre joven de piel pálida y pecosa y con un porte esbelto y musculoso, y un hombre joven y musculoso de cara cruel y cabello oscuro y graso. Ambos tienen una herida ensangrentada, en carne viva y podrida en su costado, la fuente de su aflicción licantrópica.
 
-If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction. 
+Cualquier jugador que fallara en su tirada de salvación contra la maldición de la licantropía pronto se dará cuenta de que, aunque recupera los puntos de golpe de manera habitual, la herida original permanece estéticamente ensangrentada y en carne viva, tal y como se describe en el manuscrito de Van Richten sobre la maldición de los hombres lobo. La siguiente luna llena tiene lugar la noche del sexto día tras la llegada de los jugadores a Vallaki.
 
-Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
-
-> [!combat]- **Combat - The Werewolf Hunt**  
-> **Combat Level**: Oppressive
-> **Expected Character Level**: 3
-> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 84%
+> [!combat]- **Combate - La cacería de los hombres lobo**  
+> **Nivel del combate**: Opresivo
+> **Nivel de personaje esperado**: 3
+> **Aliados:** Dos enjambres de cuervos (CR 1/4), Ireena Kolyana (CR 1)
+> **Pérdida de HP esperada:** 84%
 > 
-> ### **Enemies:**
+> ### **Enemigos:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 Jugadores | 4 Jugadores | 5 Jugadores | 6 Jugadores |
 > |-|-|-|-|-|
-> | Werewolf | 2 | 2 | 2 | 2 |
-> | Wolf | 1 | 2 | 3 | 4 |
+> | Hombre lobo | 2 | 2 | 2 | 2 |
+> | Lobo | 1 | 2 | 3 | 4 |
 
-> [!info]+ **Lycanthropy in Barovia**
+> [!info]+ **La licantropía en Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> En Barovia, la maldición de la licantropía se extiende como se describe en **Personajes jugadores licántropos** (<span class = "citation">Manual de Monstruos, p. 214</span>). Sin embargo, un jugador infectado u otra criatura no sufre automáticamente ningún cambio en sus puntuaciones de habilidad o clase de armadura ni recibe automáticamente los beneficios de la tabla de estadísticas del licántropo (por ejemplo, inmunidades o regeneración).
 >
-> Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+> En su lugar, una criatura infectada sólo recibe los beneficios de la licantropía al transformarse en su forma híbrida durante las noches de la luna llena. En ese momento, la criatura se convierte en un NPC bajo el control del DM hasta el amanecer, momento en el cual la criatura pierde los beneficios de la licantropía.
 >
-> An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
+> Una criatura infectada puede abrazar la maldición de la licantropía – obteniendo así todos sus beneficios – completando una tarea determinada, dependiendo de la naturaleza de su maldición:
 >
-> - An infected **werewolf** must voluntarily kill an innocent humanoid, without fear or hatred, and devour their flesh.
-> - An infected **wereraven** must be knocked unconscious while voluntarily attempting to protect another humanoid from (what they believe to be) near-certain death.
+> - Un **hombre lobo** infectado debe matar voluntariamente a un humanoide inocente, sin miedo u odio, y devorar su carne.
+> - Un infectado **hombre cuervo** debe ser dejado inconsciente mientras intenta voluntariamente proteger a otro humanoide de (lo que crea ser) una muerte casi segura.
 >
-> An infected lycanthrope can be recognized by the scar of the wound that originally transmitted the curse. The wound will never entirely heal, and remains raw and bloody until the curse is lifted.
+> Un licántropo infectado puede ser reconocido por la cicatriz de la herida por la que originalmente se transmitió la maldición. La herida nunca sana por completo y permanece en carne viva y ensangrentada hasta que se rompe la maldición.
 >
-> The child of two lycanthropes possesses the full benefits of lycanthropy from birth, and may learn to control their curse as they age. A child born with lycanthropy in this way cannot be cured except by means of a *wish* spell.
+> El hijo de dos licántropos posee todos los beneficios de la licantropía desde que nació y puede aprender a controlar su maldición con el paso del tiempo. Un niño nacido con licantropía de esta manera no puede curarse, excepto a través del conjuro *Deseo*.
 >
-> Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
+> Finalmente, mientras las brumas permanezcan, el ciclo lunar de Barovia se encuentra acelerado: la luna llena llega una vez cada dos semanas, en lugar de una vez cada cuatro. **La primera luna llena que experimentarán los jugadores tiene lugar el 8 de Neyavr, la sexta noche después de que lleguen por primera vez a Vallaki.**
 
-> [!abstract]+ **Curing Player Lycanthropy**
-> The players can learn from the Martikovs of the Blue Water Inn, Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
+> [!abstract]+ **Curar la licantropía de un jugador**
+> Los jugadores pueden aprender de los Martikovs de la taberna Agua Azul, del Dr. Rudolph Van Richten o de Kasimir Velikov del campamento vistani de Vallaki que la próxima luna llena tendrá lugar en su sexta noche después de haber entrado por primera vez en Vallaki. A medida que se acerca la noche de la luna llena, los jugadores infectados con licantropía experimentarán pesadillas cada vez peores, así como un apetito creciente por la carne cruda.
 > 
-> Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting *remove curse* upon reaching 5th level. (Father Lucian of St. Andral's Church in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
+> Los jugadores infectados con la licantropía de **hombre lobo** podrán hallar una cura en el [[Arc I - The Walls of Krezk]], después de conocer al Dr. Rudolph Van Richten en el [[Arc E - The Missing Vistana]]. Los jugadores de una clase competente también pueden curarse a sí mismos y a otros de licantropía conjurando *Levantar maldición* al alcanzar nivel 5. (El padre Lucian de la Iglesia de San Andral en Vallaki no puede conjurar el hechizo y, por lo tanto, no puede curar la licantropía).
 
-> [!warning]+ **Embracing Werewolf Lycanthropy**
-> As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
-# C12. The Town of Vallaki
-## C12a. The Vallakian Gates
-The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+> [!warning]+ **Abrazando la licantropía dell hombre lobo**
+> Como se señaló en la [[Session Zero]], esta campaña está diseñada para personajes jugables heroicos, en vez de villanos. Así pues, esta es incompatible con personajes que elijan abrazar la licantropía de **hombre lobo** matando y devorando a un humanoide inocente. Si un jugador expresa algún interés en hacerlo, advierte que abrazar la maldición tendrá como resultado que su personaje actual se convierta en un NPC villano, obligándolos a crearse en su lugar un personaje nuevo.
+# C12. El pueblo de Vallaki
+## C12a. Las Puertas de Vallaki
+El camino continúa hacia el **pueblo de Vallaki**, en gran parte como se describe en <span class = "citation">Aproximarse al pueblo (p. 95)</span>. Sin embargo, elimina la primera oración del texto descriptivo y agrega el siguiente texto al final del primer párrafo:
 
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+<div class="description"><p>Más de una docena de tiendas destartaladas se han asentado contra el muro de la empalizada. Entre ellas, docenas de personas andrajosas y demacradas se pasean o se sientan junto a pequeñas fogatas y sacos de dormir, sus miradas vacías os van observando en silencio mediante os acercáis.</p></div>
 
-If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
+Si los jugadores partieron esa misma mañana desde la laguna Tser, llegan a Vallaki al anochecer.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
+Si [[Non-Player Characters#Ireena Kolyana|Ireena]] visiblemente viaja con el grupo, agrega:
 
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Algunos de ellos miran a Ireena con cierto reconocimiento desganado, pero nadie levanta una mano para saludarla o hace gesto de afecto alguno.</p></div>
 
-This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
-### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+Este área, la Puerta de la Mañana, es en gran medida como se describe en <span class = "citation">Puertas del pueblo (p. 95)</span>. Las tiendas forman un campamento de refugiados barovianos, que alberga a aquellos que sobrevivieron a la caminata desde la aldea de Barovia a raíz del asedio de Strahd.
+### El campo de refugiados
+Si está con el grupo, [[Non-Player Characters#Ireena Kolyana|Ireena]] se encuentra desolada y enfurece al ver el campo de refugiados. Esta sugiere que ella se reunirá con los refugiados mientras los jugadores encuentran alojamiento en el pueblo, y promete unirse a los jugadores más tarde. Los jugadores pueden disuadirla realizando con éxito una tirada de Carisma (Persuasión) CD 10. De lo contrario, Ireena se acercará a una de las hogueras donde se cocina, ya sea sola o, si los jugadores insisten en unirse a ella, con compañía.
 
-The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
+Los miembros del campo de refugiados, que incluyen a Emeric, un hombre mayor melancólico, y Magda, una mujer joven afectada por el duelo, pueden compartir la siguiente información:
 
-* The Barovian refugees arrived at Vallaki's gates a few weeks ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
+* Los refugiados barovianos llegaron a las puertas de Vallaki hace unas semanas, pero se les prohibió entrar. Cuando intentaron atravesar las puertas a la fuerza, los guardias convocaron a un hombre al que llamaban Izek, quien tenía un retorcido brazo de diablo y que conjuró fuego para hacer retroceder a los refugiados.
+* Desde entonces, los refugiados han plantado un campamento fuera de las murallas del pueblo, agrupándose para protegerse y entrar en calor. Han logrado asegurarse algunas necesidades básicas, como las tiendas, sobornando a los guardias de las puertas, pero no han logrado persuadirles para que les permitan la entrada ni para solicitar al barón del pueblo una audiencia para discutir sobre su difícil situación.
+* Enjambres de murciélagos y manadas de lobos han asolado el campamento cada noche desde que llegaron. Afortunadamente, nadie ha muerto todavía, pero varios refugiados han resultado heridos.
+* Debido a las pérdidas que sufrieron por el camino y la amenaza del Diablo en el Castillo Ravenloft, los refugiados no están dispuestos a arriesgarse en el viaje de vuelta a casa; estando dispuestos, en su lugar, a esperar hasta que el barón entre en razón y les permita cruzar la muralla.
+* Aproximadamente una cuarta parte de los refugiados se han vuelto adictos a los "pasteles de ensueño", un comestible vendido por la vendedora ambulante Morgantha. Estos refugiados buscan una manera de escapar de la miseria y la desesperación de su situación. Aquellos que comen un pastel de ensueño entran en un estado de trance como se describe en <span class = "citation">Pasteles de sueño (p. 125)</span>.
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+Los refugiados se encuentran absortos en su desesperación. Algunos recuerdan una superstición sobre que las mujeres barovianas pelirrojas traen la desgracia y sugieren que la propia Ireena ha llevado consigo una maldición entre su gente. Pocos desean tener trato alguno con ella.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
-### The Guards at the Gates
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+Después de su interacción con los refugiados, Ireena se enfurece por la frialdad del barón y promete esforzarse al máximo para asegurar la entrada de los refugiados en Vallaki.
+### Los guardias de las Puertas
+Los guardias de las puertas actúan en gran medida como se describe en <span class = "citation">Puertas del pueblo (p. 95)</span>. Uno tiene una lanza de plata, mientras que el otro tiene un carcaj con una docena de virotes de ballesta, la mitad de ellos de plata.
 
-The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
+Los guardias exigen, primero, que cada persona se identifique. Una vez identificado, cada jugador debe mostrar sus dientes ("para demostrar que no son vampiros") y estar brevemente expuesto a un collar encordado con cabezas de ajo ("para demostrar que no son hombres lobo"). (El barón ha informado erróneamente a sus guardias de que los hombres lobo son severamente alérgicos al ajo).
 
-The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+Después, los guardias exigen a cada jugador que pague 1 pieza de oro como peaje con tal de entrar en el pueblo. Los guardias se niegan a aceptar el pago en nombre de los refugiados, a quienes el barón expresamente ha prohibido la entrada, argumentando su preocupación por "las enfermedades, la rebeldía y el descontento malintencionado".
 
-If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
+Si los jugadores pagan el peaje, los guardias también insistirán en que cada participante abra su bolso (o equivalente) y entregue cualquier objeto de plata en su poder. (Si los jugadores se quejan, los guardias les asegurarán que la plata es necesaria para producir las armas de plata necesarias para defender el pueblo de los hombres lobo). A cambio de cualquier moneda de plata que se entregue, los jugadores recibirán una cantidad de monedas de cobre de igual valor menos un diez por ciento de impuestos.
 
-If asked about lodging, the guards can share information about the Blue Water Inn, as described in <span class="citation">Vallaki Lore (p. 96)</span>. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+Si se les pregunta sobre alojamiento, los guardias compartirán información sobre la posada Agua Azul, como se describe en <span class = "citation">Conocimiento de Vallaki (p. 96)</span>. Los guardias también estarán dispuestos a proporcionarles direcciones adicionales hacia otros puntos de interés en el pueblo a cambio de un soborno de 1 pieza de oro.
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
+Cada vez que los jugadores atraviesen las puertas, incluida la primera vez, los guardias asentirán en su dirección y repetirán la frase escogida por el barón: "Todo irá bien".
 
-> [!abstract]+ **Gertruda's Fate**
-> If the players inquire about Gertruda's fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
-### Entering the Town
-As the players pass down Vallaki's main avenue, read:
+> [!abstract]+ **El destino de Gertruda**
+> Si los jugadores investigan sobre el destino de Gertruda y proporcionan una descripción, los guardias comparten con toda sinceridad que no han visto nadie que se parezca a ella.
+### Entrando en el pueblo
+A medida que los jugadores se paseen por la calle principal de Vallaki, lee:
 
-<div class="description"><p>You pass from the earthen road onto cobblestone streets, mud staining your boots and the bottoms of your pants. Behind you, the gates close with a slam, and you can see the guards resume their posts behind it. In the distance, you can see two other figures bearing pikes, patrolling the walls as they look down on the twisted forest beyond.</p>
-<p>The eaves of the buildings hang with old banners and tattered fabrics that flap and twist in the chill breeze. The banners are painted with faded words and illustrations, but time has robbed them of both their legibility and any beauty they may have once had.</p>
-<p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
-<p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
+<div class="description"><p>Pasáis de un camino de tierra a adoquinadas calles, habiendo manchado el lodo vuestras botas y los bajos de vuestros pantalones. Detrás de vosotros, las puertas se cierran con un golpe y podéis ver a los guardias retomar sus puestos tras ellas. En la distancia, podéis ver otras dos figuras con picas patrullando las murallas mientras miran abajo, hacia el perturbador bosque al otro lado.</p>
+<p>De los aleros de los edificios cuelgan viejos carteles y telas andrajosas que ondean y giran en la fría brisa. Los carteles están pintados con palabras desgastadas e ilustraciones, pero el tiempo les ha robado tanto su legibilidad como cualquier tipo de belleza que pudieran haber tenido.</p>
+<p>La luz parpadeante de las velas persiste detrás de las ventanas cerradas a cal y canto de las casas del pueblo y sombras humanoides se mueven al otro lado de las cortinas echadas. Largas sombras acechan en los callejones, donde la hierba crece alta y retorcida bajo la madera sucia y hundida de los edificios sobre ella.</p>
+<p>Las calles están vacías, aunque puedes ver una única figura encapuchada que camina alejándose de vosotros por la calle principal. En la distancia, al otro lado de la muralla, un lobo solitario aúlla y una fría ráfaga de viento atraviesa la noche como un cuchillo.</p></div>
 
-The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+La figura encapuchada es Willemina Rikalova, como se describe en <span class = "citation">Iglesia de San Andral (p. 97)</span>. Esta se dirige a la iglesia para rezar por la libertad de su hijo, Udo Lukovich.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
-## C12b. The Blue Water Inn
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+A medida que los personajes pasean por las calles, estos son percibidos por Ernst Larnak, quien los observa atentamente, aunque no los sigue, como se describe en <span class = "citation">El deseo de Lady Wachter (p. 124)</span>. (Ernst aún no les entrega una invitación para cenar con Lady Wachter, pero sí que regresa a <span class = "citation">N4. Wachterhaus (p. 110)</span> para informar a Lady Wachter cuando los jugadores ya no están a la vista).
+## C12b. La posada Agua Azul
+<span class="citation"><em>Esta escena se desarrolla en el Capítulo 5: Área N2.</em></span>
 
-This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
+Este área es en gran medida como se describe en <span class = "citation">N2. Posada Agua Azul (p. 98)</span>. Si Muriel está presente, se despide de los jugadores con un trino suave y afectuoso, después alza el vuelo para juntarse con los demás cuervos que descansan en el tejado. (Si los jugadores regresan luego a la posada buscándola, esta ya no está).
 
-When the players first arrive, the inn contains the following notable NPCs:
+Cuando los jugadores llegan por primera vez, en la posada están los siguientes NPCs destacables:
 
-* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
-* Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
-* Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
-* Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
+* Danika Dorakova, que está preparando bebidas y sirviendo a los clientes en **N2c. Bar**;
+* Urwin Martikov, que está horneando pan y cocinando estofado de remolacha en **N2e. Cocina**;
+* Brom y Bray Martikov, que están jugando con sus juguetes en **N2o. Dormitorio de los chicos**; y
+* Rictavio, que está contando historias a los clientes en **N2c. Bar**, entre los que se encuentran Nikolai y Karl Wachter.
 
 ![[Vallaki_Martikovs.png]]
 
 <span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Urwin Martikov**
+> [!profile]+ **Perfil: Urwin Martikov**
+> **Información para interpretarlo**
+> ***Conexión.*** Urwin debería inspirar diversión por sus chistes malos y bromas, gratitud por su consejo y apoyo paternal, y consuelo por su compasión y sinceridad.
 >
-> **Roleplaying Information**
-> ***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+> ***Emociones.*** Urwin se siente a menudo divertido, satisfecho, alegre, reflexivo, preocupado y esperanzado.
 >
-> ***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+> ***Motivaciones.*** Urwin quiere criar bien a sus hijos, servir a los huéspedes con hospitalidad y habilidad, y ver a la gente de Barovia liberada de la tiranía de Strahd.
 >
-> ***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+> ***Inspiraciones.*** Cuando juegues a Urwin, canaliza a Vander (Arcane), Greg Universe (Steven Universe) y Linda Belcher (Bob's Burgers).
 >
-> ***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Urwin es una amable figura paternal, un hombre de familia y un anfitrión acogedor con un brillo siempre presente en su mirada. Para aquellos en quienes confía, Urwin es un astuto cabecilla de una red de espías y un estratega con una esperanza feroz en el futuro de Barovia. En el fondo, Urwin teme por el futuro de sus hijos en un reino gobernado por Strahd.
 >
-> **Character Information**
-> ***Persona.*** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+> ***Moral.*** En una pelea, Urwin intentaría apaciguar la situación de inmediato e intentaría huir si no tiene éxito en ello, pero no antes de escoltar al resto de personas fuera del alcance del peligro.
 >
-> ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
->
-> ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefania Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relaciones.*** Urwin es el padre de Brom y Bray Martikov y el esposo de Danika Dorakova. También es el hijo exiliado de Davian Martikov y el querido hermano mayor de Adrian, Elvir y Stefania Martikov. Además de ser copropietario de la posada Agua Azul, Urwin es el jefe de espías de los [[Lore of Barovia#Keepers of the Feather|Guardianes de la Pluma]].
 
-> [!profile]+ **Profile: Danika Dorakova**
+> [!profile]+ **Perfil: Danika Dorakova**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+> **Información para interpretarla**
+> ***Conexión.*** Danika debería inspirar diversión por sus bromas bien intencionadas de "personaje cómico serio" con Urwin, gratitud por su hospitalidad y cuidado maternal, y confort por su naturaleza práctica y realista y su feroz dedicación a su familia, hogar e invitados.
 >
-> ***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+> ***Emociones.*** Danika a menudo se siente afectuosa, satisfecha, agradable, determinada, desafiante y cariñosa.
 >
-> ***Motivations.*** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+> ***Motivaciones.*** Danika quiere mantener a su familia a salvo, dirigir un negocio exitoso y asegurarse de que sus hijos vean la luz del sol algún día sobre Barovia.
 >
-> ***Inspirations.*** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+> ***Inspiraciones.*** Cuando juegues a Danika, canaliza a Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers) y Garnet (Steven Universe).
 >
-> **Character Information**
-> ***Persona.*** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Danika es una empresaria práctica y cabal con un corazón de oro. Para aquellos en quienes confía, Danika es una madre feroz con una profunda dedicación al clan Martikov. En el fondo, Danika está seriamente preparada para defender a aquellos que ama a cualquier precio.
 >
-> ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+> ***Moral.*** En una pelea, Danika intentaría que la situación desescalara rápidamente, pero lucharía hasta la muerte para defender a su familia o a sus invitados.
 >
-> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
-### Entering the Inn
-The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
+> ***Relaciones.*** Danika es la madre de Brom y Bray Martikov y la esposa de Urwin Martikov. Además de ser copropietaria de la posada Agua Azul, Danika es una miembro de alto rango de los [[Lore of Barovia#Factions#Keepers of the Feather|Guardianes de la Pluma]].
+### Entrando en la posada
+El bar es como se describe en <span class="citation">N2c. Bar (p. 100)</span>. No obstante, añade el siguiente texto al final de la descripción de este área:
 
 <div class="description">
-<p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
+<p>Cerca de una docena de vallakianos se sientan dispersos por las diversas mesas, estirando el contenido de sus jarras de vino o tazones de abundante estofado. Junto a la escalera, un hombre de colorida vestimenta que lleva un sombrero de ala ancha con plumas hace gestos exagerados desde la cabeza de una larga mesa, dejando embelesados a varios clientes sentados allí. Escucháis como se propaga una ola de risas a través del grupo, seguida de unos ligeros aplausos.</p>
 </div>
 
-The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+El hombre es el maestro feriante Rictavio, que se describe en gran medida como en <span class = "citation">Rictavio (p. 238)</span> y <span class = "citation">N2c. Bar (p. 100)</span>. Dos de los cinco oyentes en su mesa son Nikolai y Karl Wachter, quienes se describen en <span class = "citation">N2c. Bar (p. 100)</span>.
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
