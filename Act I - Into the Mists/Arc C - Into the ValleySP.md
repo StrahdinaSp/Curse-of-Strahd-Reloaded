@@ -1197,259 +1197,259 @@ El hombre es el maestro feriante Rictavio, que se describe en gran medida como e
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+Cuando los jugadores entran por primera vez en la posada, [[Non-Player Characters#Danika Dorakova|Danika]], que está atendiendo las mesas, les saluda y les pide que esperen en el bar mientras esta atiende a otros clientes.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+Si los personajes se acercan a la barra, [[Non-Player Characters#Urwin Martikov|Urwin]] saldrá de la cocina con una bandeja de pan recién horneado, estofado de remolacha caliente y filetes de lobo, la cual deja sobre la barra. (La comida huele deliciosamente bien). Szoldar Szoldarovich y Yevgeni Krushkin también están sentados en la barra y son como se describen en <span class = "citation">N2c. Bar (p. 100)</span>.
 
-Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+Urwin saluda a los jugadores calurosamente y les da la bienvenida a la posada Agua Azul. Si los jugadores no derivan la conversación hacia otro tema, este comenta que los jugadores parecen viajeros y les pregunta si necesitan habitaciones para pasar la noche.
 
-Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
+Antes de que Urwin pueda responder a los jugadores, Danika regresa y se disculpa con los jugadores por su demora. Suponiendo que los jugadores no la interrumpan, la conversación procede entonces de la siguiente manera:
 
-* Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
-* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
-* "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
-* Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
+* Danika acusa alegremente a Urwin de conspirar contra ella para alquilar habitaciones a los huéspedes "gratis" de nuevo, una acusación que Urwin niega animadamente. 
+* Danika cuenta a los jugadores que Urwin ya ha permitido que otro huésped se aloje gratis y que llevaría "a la posada a la bancarrota" con su generosidad si no ella estuviera allí para mantener los libros de cuentas en orden. (Urwin le da la razón gentilmente). 
+* "A pesar de todo", dice Urwin con descaro, "¿por qué otra razón me casaría contigo?". Con una sonrisa, Danika responde: "Por un raro caso de sentido común, me imagino".
+* Danika da un beso en la mejilla a Urwin y le dice: "La mesa junto a la ventana empieza a tener hambre". Urwin guiña un ojo a los jugadores, coge la bandeja de nuevo y sale de la barra para entregar la comida.
 
-Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+A continuación, Danika explica a los jugadores las tarifas por habitación y mesa, como se enumeran en <span class = "citation">N2. Posada Agua Azul (p. 98)</span>. (Tanto la habitación grande de huéspedes, <span class = "citation">N2m. Habitación de huéspedes (p. 102)</span>, como las dos habitaciones pequeñas de huéspedes, <span class = "citation">N2l. Habitaciones de huéspedes (p. 102)</span>, están disponibles para alquilar). Cuando Urwin regresa, este se ofrece a tomar nota de la cena de los jugadores, asumiendo que están hambrientos.
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>. 
+Los jugadores cuentan entonces con unos minutos para hablar con Urwin y Danika o entre ellos. Durante esta conversación, Urwin y Danika pueden proporcionar a los jugadores información sobre Rictavio, el Festival del Sol Llameante (que tendrá lugar al mediodía dentro de cinco días) y el campamento vistani cercano, como se describe en <Span Class = "Citation">Conocimiento de Vallaki (p. 96)</span>.
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
+Tanto Urwin como Danika pueden proporcionar indicaciones para llegar a cualquier sitio de interés dentro de Vallaki, incluida la **N1. Iglesia de San Andral**, el **N5. Corral de los Arasek** y la **N8. Plaza del pueblo**. Si los jugadores preguntan sobre el otro huésped de la posada, Urwin y Danika también compartirán información sobre Rictavio, que es en gran medida como se describe en <span class = "citation">N2c. Bar (p. 100)</span>, excepto que Rictavio llegó por primera vez esa misma mañana.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
+El envío más reciente de vino para la posada lleva un poco de retraso, pero no se ha retrasado lo suficiente como para alarmar a Urwin. Así pues, no le pide a los jugadores que investiguen el Mago de los Vinos en este momento. (Esta misión no estará disponible hasta que los jugadores alcancen el nivel 5. Ver [[Arco J - La Gema Robada]] para obtener más información).
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
-### The Ringmaster's Tale
-If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
+Si los jugadores piden comida o vino en la barra, [[Non-Player Characters#Danika Dorakova|Danika]] les ofrece la larga mesa en el extremo sur de la taberna para que se sienten y promete que se les servirá en breve. (Ver **Mapa 5.2: Taberna Agua Azul**).
+### El cuento del feriante
+Si alguno de los jugadores se acerca a la mesa de Rictavio, Nikolai y Karl Wachter les instan a que tomen asiento. *"Está a punto de contar una historia"*, susurra Nikolai en voz alta. (Szoldar Szoldarovich, el cazador de lobos, también aparta la silla de la barra para poner la oreja).
 
-> [!profile]+ **Profile: Rictavio**
+> [!profile]+ **Perfil: Rictavio**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+> **Información para interpretarlo**
+> ***Conexión.*** Rictavio debería inspirar diversión por su llamativa manera de vestir, por la extravagancia de ser un maestro feriante y por su colorida forma de hablar, que a menudo incluye referencias a sí mismo en tercera persona.
 >
-> ***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+> ***Emociones.*** Para los espectadores, Rictavio a menudo parece sentirse divertido, encantado o satisfecho.
 >
-> ***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+> ***Motivaciones.*** Rictavio quiere mantener su reputación como un maestro feriante divertido, aunque algo escandaloso.
 >
-> ***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+> ***Inspiraciones.*** Cuando juegues a Rictavio, canaliza a Varrick (Avatar: The Legend of Korra) o a un estereotípico charlatán de circo.
 >
-> **Character Information**
-> ***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Rictavio se muestra como un maestro feriante llamativo, irreverente y ocasionalmente narcisista.
 >
-> ***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+> ***Moral.*** En una pelea, Rictavio intentaría salir de cualquier problema con su charlatanería, huyendo de la batalla si las hostilidades parecen inevitables. (Sin embargo, podría intervenir para defender a un inocente de daño cometido a manos de lo sobrenatural, aunque al hacerlo haga todo lo posible para preservar su identidad secreta).
 >
-> ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> ***Relaciones.*** Rictavio es en realidad el Dr. Rudolph Van Richten, el famoso cazador de vampiros.
 
-After clearing his throat, Rictavio shares the following story:
+Tras aclararse la garganta, Rictavio explica la siguiente historia:
 
 <div class="description">
-<p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
-<p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
-<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Olivenka—one particular moonlit night. Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
-<p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
-<p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
-<p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>
-<p>And so the Count departed. He lurked in alleyways and prowled across rooftops—yet he found not a single morsel to sate his thirst. It was with surprise, that the hungry, defeated Count finally looked up to the velvet skies and saw the periwinkle-grey of approaching morning.</p>
-<p>With panic, he flew through the streets. Four blocks away. A streak of orange began to slice across the sky. Three blocks. Two—</p>
-<p>—the door to the inn slammed shut behind him.</p>
-<p>"Goodness," Olivenka said, yawning atop the staircase. "Have you been out all night?"</p>
-<p>In an eyeblink, the Count's great silhouette towered far above her. "Yes," he growled. "But I've only just found what I've been looking for. Olivenka—<i>I want to suck your blood!</i>"</p>
-<p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
-<p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
-<p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
-<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
-<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+<p>El vampiro Conde Belasco guardaba su ataúd, no en una cripta o en un castillo, sino en la bodega de una vieja posada decrépita, que era regentada por su sirviente, Igoron.</p>
+<p>El pobre Conde Belasco tenía un terrible secreto: a su anciana edad, su cuero cabelludo había empezado a pudrirse, su cabello a caerse en grandes mechones y nudos. Avergonzado, le ordenó a Igoron que le comprara una hermosa peluca negra como los cuervos, con la esperanza de seguir siendo el hombre apuesto y joven que una vez fue.</p>
+<p>"Un hombre apuesto, sin duda", afirmaba una de sus huéspedes – una viuda anciana y casi ciega llamada Olivenka – cierta noche iluminada por la luz de la luna. Nuestra querida Olivenka era muy retraída, se pasaba los días ordenando y reordenando la colección de rocas de su difunto esposo, la cual guardaba con amor en su bolso. A pesar del comportamiento extraño del conde y de su pálida piel, ella no sospechaba nada, pues su vieja vista era demasiado borrosa para distinguir los colmillos que se asomaban entre sus dientes.</p>
+<p>Como siempre, el Conde sintió la necesidad de alimentarse de ella y, aunque sus palabras aduladoras apaciguaron su interés, este sintió la sed en sus colmillos de todos modos. "¡Igoron!" bramó. "Tráeme mi abrigo, salgo a cazar".</p>
+<p>"Sí, mi Señor", resopló Igoron. Al regresar, le gimoteó: "Será mejor que vuelva antes del amanecer, mi Señor. Limpiaré las cortinas esta noche. Le quiero sano y salvo en su ataúd antes de que salga el sol".</p>
+<p>El Conde Belasco se burló. "No temas, ingenuo Igoron", se jactó. "Conozco bien los horarios de mi enemigo. Nada podría distraer a mi espíritu lo suficiente como para demorarme bajo de sus terribles rayos".</p>
+<p>Y así el conde partió. Merodeó por callejones y rondó de tejado en tejado, pero no encontró ni un sólo tentempié para saciar su sed. Con gran sorpresa, el conde hambriento y derrotado dirigió su mirada hacia el aterciopelado cielo sobre él y vio que se acercaba el gris azulado de la mañana.</p>
+<p>Inundado por el pánico, voló a través de las calles. se hallaba a cuatro manzanas. Una franja naranja empezó a atravesar el cielo. Tres manzanas. Dos–</p>
+<p>–La puerta de la posada se cierra tras él.</p>
+<p>"Por todos los santos", dijo Olivenka, bostezando desde la parte de arriba de la escalera. "¿Ha estado fuera durante toda la noche?".</p>
+<p>En un abrir y cerrar de ojos, la gran silueta del Conde se irguió muy por encima de ella. "Sí", gruñó. "Pero justo acabo de encontrar lo que he estado buscando. Olivenka– <i>¡Quiero chuparle la sangre!</i>".</p>
+<p>Normalmente, las víctimas del Conde Belasco gritarían, huirían o se desmayarían, pero este había cometido un terrible error.</p>
+<p>Había olvidado que los ojos cubiertos de cataratas de Olivenka no podían ver sus colmillos.</p>
+<p>"¡Es usted un hombre repugnante!" gritó Olivenka y le lanzó las extrañas rocas y minerales que había recolectado durante dieciocho años directamente a la cabeza. Hubo un terrible golpe seco, seguido de un horrible sonido de madera astillándose, y entonces el Conde Belasco cayó rodando hasta el pie de las escaleras. Cuando logró abrir los ojos, vio a Olivenka mirándole con horror, pero no a él, sino a su <i>cabeza</i> – a su cabeza <i>descubierta</i>.</p>
+<p>Allí, justo bajo de la ventana oriental, yacía su amada peluca. Este se lanzó hacia ella, extendiendo sus garras, y entonces un rayo de luz solar le rasgó la piel.</p> 
+<p>Hubo un chisporroteo, un siseo y un estallido de humo y llamas. Olivenka, apretando su bolso contra el pecho, observó con asombro cómo el Conde Belasco sucumbía a la luz de la mañana, hasta que todo lo que quedó fueron un montón de cenizas ardientes y una peluca carbonizada y humeante.</p>
 </div>
 
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
+"Pobre Olivenka, nunca pudo superarlo," concluye Rictavio, guiñando un ojo. "Al fin y al cabo – pasó por una experiencia bastante 'peliaguda'!". Mientras sus oyentes le abuchean, se ríen a carcajadas y le aplauden, este hace una reverencia y luego hace un gesto con la mano a Danika para que reparta otra ronda de bebidas. A medida que esta se acerca, Brom y Bray se cruzan con ella corriendo en dirección a la cocina, mientras se ríen.
 
-If spoken with, Rictavio is willing to share the following information over drinks:
+Si se entabla una conversación con él, Rictavio está dispuesto a compartir la siguiente información con unas bebidas de por medio:
 
-* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
-* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+* Se llama Rictavio y es un maestro feriante semi-elfo que ha viajado mucho y muy lejos en busca de nuevos actos para su circo. No está completamente seguro de cómo terminó en Barovia, pero está intentando aprovecharlo al máximo. (Esto es mentira. Una tirada de Sabiduría (Perspicacia) CD 16 revela que las palabras de Rictavio suenan demasiado fáciles y ensayadas)
+* Ha llegado recientemente, justo esa misma mañana, y se ha instalado en la habitación privada de la posada Agua Azul. "Los generosos posaderos me han permitido quedarme a cambio de cuentos y buen humor", señala sonriendo.
 
-During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
+Durante la conversación, Rictavio intenta sutilmente saber más información de la que revela, con la esperanza de averiguar las identidades, capacidades, relaciones e historias de los jugadores en Barovia y fuera de ella. Si se le pregunta por qué parece tener tanta curiosidad, este insiste presuntuosamente que siempre está buscando nuevas historias para agregar a su repertorio.
 
-When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+Cuando se termine su bebida, Rictavio volverá a ofrecer una reverencia con muchas florituras y se excusará. Mientras lo hace, Nikolai y Karl le abuchean e instan a Rictavio a contar otra historia. "Hemos escuchado una sobre un estúpido conde", dice Nikolai. "¿Y si ahora cuentas una sobre un estúpido barón?".
 
-If the players don't intervene, the following sequence of events then occurs:
+Si los jugadores no intervienen, se produce la siguiente serie de acontecimientos:
 
-* The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
-* From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
-* Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
+* La mesa y la barra cercana se quedan en silencio, con muchos de los clientes mirando nerviosos a Nikolai y Rictavio.
+* Desde su asiento en la barra, Szoldar murmulla: "Será mejor que no lo hagas, muchacho". (Detrás de él, Yevgeni gruñe y después repite, "Será mejor que no").
+* Karl se burla. "Cobardes, todos vosotros", dice, echándoles un vistazo. "No tenéis ni una pizca de sentido del humor en vuestros cuerpos".
+* Rictavio se aclara la garganta. "Por desgracia, amigos míos", dice, "el día ya se ha alargado demasiado y debo retirarme. Otro día, tal vez". Mientras Nikolai y Karl se quejan y vuelven a sus bebidas, Rictavio hace una reverencia con una floritura y se dispone a sube por las escaleras hasta la <span class = "citation">N2n. Habitación de huéspedes privada (p. 102)</span>.
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
-### The Brothers Wachter
-If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+Cualquier jugador que se fije en Rictavio mientras camina por la **N2j. Gran galería**, ve como pasa por delante de Brom y Bray, que están agachados a junto al balcón frente la **N2o. Habitación de los chicos**. (Los chicos están colgando el murciélago de peluche descrito en <span class = "citation">N2o. Habitación de los chicos (p. 102)</span> sobre la barra de abajo, riéndose mientras Nikolai y Karl intentan darle estando claramente borrachos. Los chicos utilizan las <span class = "citation">N2i. Escaleras y pasillo secretos (p. 101)</span> para corretear en silencio de la cocina al balcón mientras los jugadores beben, pasando desapercibidos para los clientes de la posada).
+### Los hermanos Wachter
+Si los jugadores se quedan en la mesa de Rictavio, los hermanos Wachter estarán dispuestos (si se tira de la lengua) a despotricar sobre:
 
-- the Festival of the Blazing Sun,
-- Vallaki's recent history of festivals,
-- the Baron's response to those who speak ill of the festivals, and
-- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+- El Festival del Sol Llameante,
+- La reciente historia de los festivales de Vallaki,
+- La respuesta del barón a aquellos que hablan mal de los festivales, y
+- Los destellos de la luz púrpura que se han visto en el ático de la **N3. Mansión del burgomaestre**.
 
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+(Ver <span class = "citation">Conocimiento de Vallaki (p. 96)</span>). Cuando los jugadores se hayan ganado la confianza de los hermanos, la conversación se desarrolla como se describe en <span class = "citation">N2c. Bar (p. 100)</span>.
 
-Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
+A lo largo de la conversación, se hace evidente que los hermanos tienen una enemistad profunda y personal hacia Izek Strazni y la familia Vallakovich. Sin embargo, ninguno de los hermanos revelará la razón subyacente: la enfermedad de Stella Wachter (ver [[Arc H - The Lost Soul]], a no ser que los jugadores pregunten y tengan éxito en una tirada de Carisma (Persuasión) CD 20).
 
-At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+En algún momento durante la conversación, Danika se acerca a la mesa para llevarse los platos vacíos. Mientras lo hace, Nikolai le pide alegremente más vino. Si los jugadores no intervienen, la conversación se desarrolla de la siguiente manera:
 
-- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
-- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
-- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
-- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+- [[Non-Player Characters#Danika Dorakova|Danika]] se dirige a Karl y Nikolai por su nombre y les pregunta, "No habéis bebido ya suficiente, muchachos?".
+- Nikolai ignora sus palabras y dice, "Tonterías – ¡si acabamos de empezar! Dos pintas de vino para empezar y que sigan llegando".
+- Danika les contesta, "¿Puedo serviros un poco de vino Pulpa Púrpura Nº 3?". Nikolai se mofa y dice, "¿Nos has tomado por – unos campesinos sin gusto alguno? Cosecha del Dragón Rojo y sé generosa".
+- Mientras les sirve el vino, Danika dice ociosa, "¿Sabe vuestra madre lo que tramáis esta noche?". Karl espera hasta que tiene su pinta, entonces refunfuña, "Madre está demasiado ocupada últimamente. Ojos que no ven, corazón que no siente". ("Ni nosotros" empatiza Nikolai, dándole un codazo a su hermano. Ambos sueltan una risita y siguen bebiendo).
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
-### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Si los jugadores le preguntan a Urwin o Danika sobre los hermanos Wachter, Urwin puede transmitirles la información recogida en <span class = "citation">N2c. Bar (p. 100)</span>. Si los jugadores preguntan por su madre o sobre sus palabras sobre el "estúpido barón", Urwin se inquieta visiblemente y promete hablar de ello con los jugadores mañana por la mañana.
+### La hora de cenar
+Poco después de que la historia de Rictavio concluya, si los jugadores pidieron cena, [[Non-Player Characters#Danika Dorakova|Danika]] se acerca a su mesa con una bandeja de comida. Mientras les sirve, de repente es empujada por detrás, enviando uno de los tazones de sopa rodando fuera de su alcance. Los dos jugadores sentados en el extremo más al norte de la mesa deben realizar una *tirada de salvación de Destreza CD 10*, consiguiendo atrapar el tazón si tienen éxito. (Si ambos jugadores tienen éxito, el jugador con el resultado más alto atrapa el tazón primero. Si ninguno de los jugadores tiene éxito, el tazón cae al suelo, derramando la sopa).
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika se da la vuelta, desvelando al culpable: un Brom Martikov de rojas mejillas que lleva una de las máscaras de payaso de madera pintadas descritas en <span class = "citation">N2o. Habitación de los chicos (p. 102)</span>. (Bray Martikov, que lleva la otra máscara del par, se esconde detrás de una de las sillas de la mesa más cercana).
 
-If the players do not interrupt, Danika scolds the boys as follows:
+Si los jugadores no la interrumpen, Danika regaña a los chicos de la siguiente manera:
 
-* Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
-* Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
-* Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
+* Danika de inmediato (pero sin ser cruel) llama la atención a Brom y Bray por sus nombres completos. Ambos niños le prestan atención de inmediato.
+* Danika le pregunta a los niños: "¿Qué os dijo vuestro padre sobre poneros esas máscaras en la posada?". Ambos niños se quitan las máscaras, sonrojados, y Brom dice tímidamente: "Que se supone que no debemos hacerlo".
+* Después, Danika le pregunta a los chicos: "¿Y qué os dije sobre correr por la posada?". Los dos se quedan callados y entonces Bray suelta de sopetón, "... ¿que she shupone que no debemo' hace'lo?". Danika responde: "Exactamente".
 
-If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+Si se derramó la sopa, Danika ordena a Bray que vaya fuera a por un cubo de agua del **N2a. Pozo** y a Brom que vaya a por un mocho a la cocina para limpiar el desastre. Si no se derramó la sopa, Danika les recuerda a los niños que se supone que deberían estar ayudando a su padre a cocinar la cena y los ahuyenta hacia la cocina.
 
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+En cualquier caso, Danika se disculpa con los jugadores y les ofrece comidas gratis para la noche siguiente. Si los jugadores preguntan sobre Brom y Bray, Danika sonríe con cariño y dice: "A veces pueden ser un poco cargantes, pero son buenos chicos".
 
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
+Si los jugadores preguntan por las máscaras de los niños, Danika les dice que Urwin se las compró al juguetero local, Gadof Blinsky, que trabaja en <span class = "citation">N7. Juguetería Blinsky (p.118)</span>.
 
-The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
+La posada se va vaciando lentamente durante las siguientes dos horas. Nikolai y Karl Wachter se van dando tumbos fuera y se desploman en el cobertizo de la posada, demasiado borrachos como para regresar a casa.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+Si los jugadores alquilaron habitaciones para la noche, [[Non-Player Characters#Danika Dorakova|Danika]] finalmente se acerca a su mesa y se ofrece a mostrarles sus habitaciones. (Ver <span class = "citation">N2l. Habitaciones de huéspedes y N2m. Habitación de huéspedes, p. 102</span>). Durante el recorrido, Danika les comenta que pueden solicitar libremente que se les traiga ropa de cama limpia o una bañera de agua caliente (para bañarse) a su habitación. "El desayuno se sirve a primera hora de la mañana", dice cálidamente, y agrega: "Sentiros libre de hacernos saber si necesitáis cualquier cosa".
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
-## C12c. Morning in Vallaki
-### Urwin's Advice
-When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+***Hito.*** Cuando los jugadores realicen su primer descanso largo descanso en Vallaki, otorga a cada jugador 1,000 XP. (Esto debería llevar a los jugadores al nivel 4). Si los jugadores escoltaron con éxito a Ireena a Vallaki, estos ganan 250 XP adicionales. (Los jugadores no necesitan llevar a Ireena hasta la Iglesia de San Andral para recibir estos puntos de experiencia).
+## C12c. Mañana en Vallaki
+### El consejo de Urwin
+Cuando los jugadores salgan por primera vez de sus habitaciones a la <span class = "citation">N2k. Galería de los huéspedes (p. 102)</span> a la mañana siguiente, [[Non-Player Characters#Urwin Martikov|Urwin]] – que está bajando las sillas de la barra de la posada –, les pide que bajen hasta el bar para hablar.
 
-Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
+Bajando su voz, Urwin advierte a los jugadores que deben ser cautelosos en Vallaki, debido tanto al duro sistema del pueblo para aplicar la ley como por las recientes tensiones políticas. Urwin puede compartir la siguiente información adicional, como se describe en <span class = "citation">Conocimiento de Vallaki (p. 96)</span>:
 
-* The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
-* Vallaki's recent history of festivals,
-* The Baron's strict rules regarding his festivals—and the fates of those who speak ill of them,
-* The brutish nature and terrible strength of Izek Strazni, the baron's henchman. ("Many have tried to test his strength," Urwin notes grimly. "All have failed.")
+* La fecha del Festival del Sol Llameante, que tendrá lugar desde el amanecer hasta el mediodía del quinto día que pasen por completo los jugadores en Vallaki,
+* La historia reciente de los festivales de Vallaki,
+* Las estrictas reglas del barón con respecto a sus festivales y el destino de quienes hablan mal de ellos,
+* La naturaleza bruta y la espantosa fuerza de Izek Strazni, el secuaz del barón. ("Muchos han tratado de desafiar su fuerza", señala Urwin tristemente. "Nadie ha tenido éxito").
 
-Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+Urwin señala en voz baja, no obstante, que se sabe que el barón es altamente susceptible a la adulación y que, si los jugadores jamás necesitan ganarse su favor, su ego puede convertirse en el objetivo principal.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in <span class="citation">Vallaki Lore (p. 96)</span>. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+Si los jugadores preguntan si el barón tiene algún enemigo en Vallaki, Urwin también puede compartir la información sobre Lady Fiona Wachter descrita en <span class = "citation">Conocimiento de Vallaki (p. 96)</span>. Sin embargo, en vez de describir a la "hija loca" de Lady Wachter, Urwin sólo comenta que Lady Fiona tiene una hija, Stella Wachter, a quien recientemente Lady Wachter ha recluido en los terrenos de la Wachterhaus por razones desconocidas.
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from <span class="citation">N2n. Private Guest Room</span> and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+A medida que la conversación de Urwin llega a su fin, Rictavio baja por las escaleras de la <span class = "citation">N2n. Habitación de huéspedes privada</span> y se acerca al bar, saludando a los jugadores con la cabeza. Urwin le da los buenos días y saca un pequeño paquete de debajo de la barra, que Rictavio acepta y guarda en su capa.
 
-> [!abstract]+ **What's In the Parcel?**
-> If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
-### Following the Ringmaster
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
+> [!abstract]+ **¿Qué hay en el paquete?**
+> Si se le pregunta, Urwin informará a los jugadores de que el paquete sólo contiene comida – unas cuantas manzanas, algunas rebanadas de pan y una cuña de queso.
+### Siguiendo al maestro feriante
+Si uno o más jugadores siguen a Rictavio fuera de la posada Agua Azul, estos pueden seguirlo hasta el <span class = "citation">N2f. Establo (p. 101)</span> sin mayor dificultad.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Una vez dentro, Rictavio saca el paquete de su capa, coge dos manzanas y procede a dárselas de comer a su caballo, Drusilla. Una vez que Drusilla ha terminado de comer, Rictavio comprueba sus alrededores, obligando a cualquier jugador escondido a tener éxito en una tirada de Destreza (Sigilo) CD 18 o ser detectado.
 
-> [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
+> [!info]+ **Tiradas grupales**
+> Ver <span class="citation">Pruebas en grupo (<em>Player's Handbook</em>, p. 175)</span> para más información sobre cómo realizar las tiradas de habilidad en grupo.
 
-> [!abstract]+ **Detecting Magic**
-> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> [!abstract]+ **Detectando magia**
+> Si un jugador conjura _Detectar magia_ estando ante la presencia de Rictavio, podrá detectar inmediatamente:
 > 
-> * the aura of illusion magic surrounding his _hat of disguise_,
-> * the aura of enchantment magic surrounding his _ring of mind shielding_, and
-> * the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt, and his *charm bracelet*.
-> * the aura of divination magic surrounding his *lucid lens*.
+> * un aura de magia de ilusión alrededor de su _Sombrero de disfraz_,
+> * un aura de magia de encantamiento alrededor de su _Anillo de escudo mental_,
+> * un aura de magia de abjuración alrededor de su _Amuleto a prueba de detección y localización_, el cual lleva escondido bajo su camiseta, y su _Pulsera de cuentas_; y
+> * un aura de magia de adivinación alrededor de su _Lente lúcida_.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+Si detecta a cualquier jugador, Rictavio les llamará la atención y señalará, con cierta gracia, que no es de buena educación espiar en lugares oscuros. Después, les interrogará relajadamente, haciendo todo lo posible para descubrir cuál era su propósito al seguirlo mientras evita revelar su verdadera identidad. 
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
+Si se le pregunta para quién es la comida, Rictavio insiste que es para "mi amigo, el desamparado juguetero". (Se refiere a Gadof Blinsky, descrito más a fondo en <span class = "citation">N7. Juguetería Blinsky (p. 118)</span>).
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+Si se le confronta respecto a sus objetos mágicos o su verdadera identidad, Rictavio ordena a los jugadores primero que comprueben los alrededores en busca de espías, después exige que demuestren que no son espías de Strahd. Si los jugadores responden persuasivamente, este les insistirá en que juren mantener el secreto. Si lo hacen, su historia cambia de la siguiente manera:
 
-* If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-* If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+* Si los jugadores no sospechan cuál es su verdadera identidad, Rictavio "revela" que es un agente secreto de los Guardianes de la Pluma, una sociedad secreta que se dedica a oponer resistencia a Strahd. (Su verdadero nombre, afirma, es clasificado por temor a que pueda llevar a Strahd a perseguir a sus seres queridos).
+* Si los jugadores sospechan cuál es su verdadera identidad, Rictavio "revela" que es Arthur Sedgwick, un ex alumno de Van Richten proveniente de una tierra más allá de las nieblas que siguió al Dr. Van Richten hasta Barovia cuando este escuchó que el cazador de vampiros había desaparecido.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+Todo esto son mentiras. Una tirada de Sabiduría (Perspicacia) CD 18 evidencia que los ojos de Rictavio se desvían hacia arriba por un momento antes de dar el nombre de los Guardianes o el de Arthur. Si se le confronta aún más, Rictavio niega cualquier acusación adicional. "Creed lo que queráis", reconoce, encogiéndose de hombros. "Lo que penséis no me preocupa lo más mínimo".
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+Rictavio se niega a compartir más información por temor a que los agentes de Strahd puedan robársela a los jugadores.
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+Si no detecta a los jugadores, Rictavio usa su *Sombrero de disfraz* para asumir la forma de un plebeyo vallakiano aleatorio, luego sale del establo de camino a la calle. Después, procede zigzaguear por las calles y los callejones de Vallaki en un intento paranoico de despistar a quien le siga. Cualquier jugador que intente seguirlo debe tener éxito en una tirada de Sabiduría (Percepción) CD 18 o lo perderá entre la multitud.
 
-> [!abstract]+ **Following Rictavio**
-> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
-### Exiting the Inn
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+> [!abstract]+ **Siguiendo a Rictavio**
+> Cuando salga del establo de la posada Agua Azul, Rictavio se dirige al Corral de Arasek, donde entrega el paquete de comida a través de los listones de la puerta trasera de su carromato. Después, proporciona a Arabelle una breve actualización de los sucesos en el pueblo mientras esta come, arrodillándose ante el carromato como se describe en el [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+### Saliendo de la posada
+Cuando los jugadores salgan de la posada Agua Azul durante su primera mañana en Vallaki, estos se encontrarán la calle atestada de gente. Asumiendo que los jugadores no interferirán, la siguiente escena se desarrolla a continuación:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession. 
-* The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
-* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
-* Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
-* As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
+* Los jugadores escuchan el sonido del quejido de un caballo al otro lado de la calle y como la gente del pueblo se detiene al instante y se queda en silencio. Una pequeña procesión se extiende al sur: el Baron Vargas Vallakovich (como se describe en <span class = "citation">Interpretar a la familia Vallakovich, p. 103</span>) va montado sobre su caballo de color avellana, flanqueado por sus dos **mastines** llamados Garra y Colmillo y seguido por tres **Guardias**. Izek Strazni lidera la procesión. 
+* Los jugadores pueden ver que una mujer anciana y asustada que viste ropa de plebeya harapienta acaba de tropezar con el caballo y se caído en un charco de barro a unos metros del caballo. El caballo se ha detenido de golpe y la procesión se ha detenido con él. El brazo demoníaco de Izek está extendido, sugiriendo que acaba de empujar o arrojar a la anciana al barro. (La mujer es Willemina Rikalova, la madre del zapatero encarcelado Udo Lukovich).
+* El barón regaña muy enfadado a la mujer por mancharle de barro su capa con sus "manos sucias del campesina". La anciana, con voz temblorosa, se disculpa y suplica al barón que libere a su hijo, Udo, alegando que no pretendía hacer ningún daño con su "estúpida broma".
+* El barón insiste en que Udo necesita "rehabilitación" por su "descontento malintencionado" y sugiere que la mujer también la necesita. Este ordena a Izek que la aprehenda y la encierre en los cepos, sugiriendo que "unos días en los cepos deberían ayudarle a morderse la lengua". Izek avanza, flexionando su brazo demoníaco con un cruel brillo en sus ojos. 
+* Izek agarra a la mujer, la pone de pie a la fuerza y la empuja bruscamente hacia los brazos de los guardias que estaban esperándola. Dos de los guardias le ponen a la anciana sus brazos en la espalda y comienzan a llevarla al sur mientras esta forcejea, llora y suplica por la libertad de su hijo. La gente del pueblo no se atreve a ayudarla.
+* A medida que la anciana es arrastrada, el barón se vuelve hacia la gente del pueblo que lo rodea y anuncia: "¡Que esto sea una lección sobre los peligros del descontento malintencionado! La mano del Diablo es larga, pero nuestra alegría se sobrepondrá a su sombra".
 ![[Izek Strazni.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+> [!profile]+ **Perfil: Baron Vargas Vallakovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> **Información para interpretarlo**
+> ***Conexión.*** Vargas debería inspirar la frustración con su obstinación, asco por su arrogancia narcisista y una leve diversión por su total y ridícula confianza en sí mismo.
 >
-> ***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> ***Emociones.*** Vargas suele sentirse molesto, ofendido, satisfecho, indignado, impaciente o presumido.
 >
-> ***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> ***Motivaciones.*** Vargas quiere asegurarse que su poder está libre de la influencia de Strahd y conseguir que Vallaki escape de las brumas obligando a todos en la ciudad a ser felices.
 >
-> ***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> ***Inspiraciones.*** Cuando juegues a Vargas, canaliza a Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones) y el Gobernador Ratcliffe (Pocahontas).
 >
-> **Character Information**
-> ***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Vargas es un noble privilegiado, narcisista y de sangre azul con mal genio, delirios de salvación y un amor por la alabanza y la adoración.
 >
-> ***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> ***Moral.*** En una pelea, Vargas ordenaría a sus perros, Garra y Colmillo, así como a Izek Strazni y a cualquier guardia que esté presente que aprehendiera a cualquiera que se opusiera a él. Si se le priva de sus defensores, Vargas intentaría huir o, si le obstruye la huida, se postraría patéticamente a los pies de su atacante, pidiendo clemencia.
 >
-> ***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+> ***Relaciones.*** Vargas, el burgomaestre de Vallaki, es el padre de Victor Vallakovich, el esposo de la baronesa Lydia Petrovna, el cuñado del padre Lucian Petrovich e hijo del difunto barón Valentin Vallakovich. También es el jefe y "padre" adoptivo de Izek Strazni, el capitán de su guardia y su principal esbirro.
 
-> [!profile]+ **Profile: Izek Strazni**
+> [!profile]+ **Perfil: Izek Strazni**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> **Información para interpretarlo**
+> ***Conexión.*** Izek debería inspirar asco por su crueldad e indiferencia hacia la vida humana, e incomodidad por su inquietante interés en Ireena Kolyana.
 >
-> ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+> ***Emociones.*** Izek suele sentirse irritado, enfurecido, impaciente, sádico, obsesionado o aburrido.
 >
-> ***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> ***Motivaciones.*** Izek quiere servir fielmente al barón y, lo que es más importante, encontrar y poseer a la mujer con la que ha estado soñando.
 >
-> ***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+> ***Inspiraciones.*** Cuando juegues a Izek, canaliza a Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter) y Kratos (God of War).
 >
-> **Character Information**
-> ***Persona.*** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+> **Información del personaje**
+> ***Percepción externa.*** Para el mundo, Izek es un esbirro cruel y bruto con un delirio por el fuego y la sangre.
 >
-> ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+> ***Moral.*** En una pelea, Izek desenvainará con gusto su hacha de batalla de plata y peleará hasta la muerte.
 >
-> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> ***Relaciones.*** Izek es el "hijo" adoptivo del barón Vargas Vallakovich, el capitán de la guardia del pueblo de Vallaki, un cliente habitual del juguetero Gadof Blinsky y (sin que ninguno de ellos lo sepa) el hermano biológico de Ireena Kolyana.
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
+Si los jugadores interrumpen el arresto de Willemina, el barón les saludará como forasteros y preguntará, con cierto entretenimiento, si buscan reclamar la responsabilidad sobre la rehabilitación de "esta vieja estúpida" para con ellos mismos. 
 
-***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomacia.*** Si los jugadores realizan con éxito una tirada de Carisma (Persuasión) CD 10 o esgrimen un argumento que halague suficientemente el ego del barón, este ordenará a los guardias que liberen a la anciana de su arresto. Les dará la bienvenida a Vallaki y les ordenará pomposamente que se aseguren de aprender las reglas y tradiciones del pueblo.
 
-***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
+***Hostilidad.*** Si los jugadores muestran cierta voluntad de comenzar una pelea, los ojos del barón se estrechan y sus mastines comenzarán a gruñir. Mientras tanto, el brazo de Izek arderá con una llama carmesí, apretando su puño alrededor de la empuñadura de su hacha de batalla de plata.
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+El barón exige primero saber si los jugadores son "espías del Diablo Strahd". Los jugadores pueden intentar apaciguar la situación y asegurar que el arresto de Willemina se lleve a cabo pacíficamente, pero cualquier tirada de Carisma realizada a posteriori para influir en el barón se realizará con desventaja.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+Si parece que el combate es inminente, el [[Non-Player Characters#Father Lucian Petrovich|Padre Lucian Petrovich]] (como se describe en <span class = "citation">N1. Iglesia de San Andral, p. 97</span>) sale de entre la multitud y llama a la paz. El barón lo saluda calurosamente por su nombre y el padre Petrovich se disculpa por el comportamiento de Willemina, señalando que ha estado muy preocupada durante los últimos días en sus congregaciones. Este promete escoltarla a la Iglesia de San Andral y procurar que su mente afligida encuentre alivio, una propuesta que el barón acepta a regañadientes.
 
-> [!lore]+ **What's Lucian Doing Here?**
-> After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **¿Qué está haciendo aquí Lucian?**
+> Tras darse cuenta de que [[Arco C - Hacia el Valle|los huesos de San Andral habían desaparecido]] y haber enviado a Yeska para que contratara a Henrik con tal de que este le dejara materiales para reparar la cripta, el padre Petrovich buscaba al Baron Vallakovich con la esperanza de obtener su ayuda para encontrar los huesos. Sin embargo, ha decidido que esto es una mala idea tras observar el humor y el comportamiento del barón en las calles. (Lucian no comparte esto a menos que este ya les hubiera contado a los jugadores sobre los huesos desaparecidos en el [[Arc D - St. Andral's Feast]]. No obstante, sí que compartirá que esperaba preguntarle al barón algo, pero que decidió no hacerlo después de ver el humor actual del hombre).
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+El barón también se pregunta en voz alta si debería castigar a los jugadores por su insolencia. El padre Petrovich asegura al barón que son meros forasteros, no cultivados en las formas de Vallaki y que él se encargará de que sean educados adecuadamente. 
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+El barón ordena vehementemente que espera que así sea y, entonces, informa a los jugadores que lo han pillado "de buen humor" y que deberían estar agradecidos por "la misericordia del Señor de la Mañana". Sin embargo, les advierte de que futuras transgresiones de la ley serán respondidas con castigos severos.
 
-***Departure.*** As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+***Salida.*** A medida que el barón sale de la escena, este anuncia a la multitud: "Espero veros a todos en el Festival del Sol Llameante en cuatro días. ¡Todo irá bien!".
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+La gente del pueblo, con sonrisas que más bien parecen muecas, entonan forzadamente "todo irá bien". El barón asiente, evidentemente satisfecho, y continúa montando hacia el norte, seguido por Izek, sus mastines y cualquier guardia restante. La actividad de la calle se reanuda poco después.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+Si Ireena está con el grupo, esta se ha puesto la capucha de su capa al salir de la posada. Sin embargo, a menos que el grupo haya tomado medidas concretas para evitar que Izek la identifique, Ireena llama la atención de Izek y le sostiene su mirada por un largo y prolongado rato antes de finalmente partir, dejando a Ireena con una sensación incómoda y fría. Entonces comienza el [[Arc G - The Strazni Siblings]].
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+Si se le pregunta, Ireena señala con incertidumbre que algo en Izek le resulta prácticamente familiar, aunque no puede recordar por qué.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+Si los jugadores desafiaron a Vargas o Izek de alguna manera, o si, de otro modo, ayudaron a Willemina, Ernst Larnak informará de sus acciones a Lady Fiona Wachter en la Wachterhaus. Entonces comienza el [[Arc F - Lady Wachter's Wish]].
 
-***End of an Act.*** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
+***Fin del acto.*** Cuando los jugadores salgan de la Posada Agua Azul para iniciar su primer día en Vallaki, el **Acto I** acaba y empieza el **Acto II**.
 # Design Notes: Into the Valley
 ## Journey to Vallaki
 ***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
