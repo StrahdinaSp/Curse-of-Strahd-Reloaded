@@ -397,10 +397,6 @@ Una criatura empujada desde el borde del balcón cae desde dos plantas o 20 pies
 > | 4 | Reduce los puntos de vida de la armadura a 21. |
 > | 6 | Aumenta los puntos de vida de la armadura a 48. |
 
-```statblock
-monster: Armadura animada
-```
-
 ### Suite principal
 <span class="citation"><em>Esta escena se desarrolla en Apéndice B: Área 12.</em></span>
 
@@ -454,9 +450,6 @@ Esta habitación se describe en detalle en <span class="citation">Almacén (p. 2
 
 Cuando un jugador se posicione en un rango de 5 pies de la **Escoba de Ataque Animado** por primera vez, esta atacará por sorpresa tan pronto como se aparte la mirada de ella o se dé la vuelta, golpeándole en el lado de la cabeza. Inmediatamente después, volverá a su posición inicial, ahora sin telarañas. En sus turnos futuros, la escoba utiliza su ***Multiataque*** para seguir atacando a cualquier jugador que no la mire y esté a 5 pies de ella, absteniéndose de realizar ataques de oportunidad contra los jugadores que se alejen.
 
-```statblock
-monster: Escoba de Ataque Animado
-```
 ### Suite de la niñera
 <span class="citation"><em>Esta escena se desarrolla en Apéndice B: Área 15.</em></span>
 
@@ -579,9 +572,6 @@ Si alguien altera el estado de la casa de muñecas o del cofre, los fantasmas de
 >
 > ***Relaciones.*** Thorn es el hermano pequeño de Rose Durst, hermanastro de Walter Durst y el hijo más joven de Elisabeth y Gustav Durst.
 
-```statblock
-monster: Fantasmas (Rose y Thorn)
-```
 
 En vida, Rose era una maga en ciernes que descubrió un pequeño libro de hechizos en la biblioteca de su padre y que copió con gran dedicación los trucos *Mending*, *Light* y *Shocking grasp* en su diario. <sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
@@ -792,10 +782,6 @@ Si los jugadores perturban al grick, lee:
 
 <span class="credit">"The Grick" by Cuddly Kraken. Support them <a href="https://cuddlykraken.carrd.co/">here!</a></span>
 
-```statblock
-monster: Grick CoS
-```
-
 ### Encuentro macabro
 <span class="citation"><em>Esta escena se desarrolla en Apéndice B: Área 29.</em></span>
 
@@ -825,10 +811,6 @@ Cuando un jugador entre por primera vez en uno de los cuadrados de 5 pies a la e
 > | 3 |  |
 > | 4 | Permite un único ataque de gul a la vez |
 > | 6 | Permite un único ataque de gul a la vez |
-
-```statblock
-monster: Gules DH
-```
 
 Mientras los gules atacan, estos repiten mecánicamente una o todas las frases siguientes:
 
@@ -890,11 +872,6 @@ Las sombras adquieren la siguiente característica adicional:
 > |-|-|-|-|-|
 > | Sombras | 3 | 4 | 5 | 6 |
 
-
-```statblock
-monster: Sombras
-```
-
 ### Trampilla oculta
 <span class="citation"><em>Esta escena se desarrolla en Apéndice B: Área 32.</em></span>
 
@@ -943,10 +920,6 @@ Doblado dentro del arcón, encima del resto su contenido, hay un **Deshuesado** 
 > | 3 |  <ul><li>Reduce los puntos de vida del deshuesado a 16.</li><li>Reduce su ataque ***Golpe*** y su acción ***Abrazo aplastante*** a 3 (1d4+1) de daño cada uno.</li></ul> |
 > | 4 | <ul><li>Reduce los puntos de vida del deshuesado a 21.</li><li>Reduce su ataque ***Golpe*** y su acción ***Abrazo aplastante*** a 4 (1d4+2) de daño cada uno.</li></ul> |
 > | 6 | <ul><li>Aumenta los puntos de vida del deshuesado a 31.</li><li>Aumenta su ataque ***Golpe*** y su acción ***Abrazo aplastante*** a 6 (1d6+3) de daño cada uno.</li></ul> |
-
-```statblock
-monster: Deshuesado
-```
 
 Ningún **ghast** ataca si un jugador intenta llevarse alguno de los objetos del arcón y no hay ningún nicho oculto tras las paredes.
 
@@ -1039,12 +1012,12 @@ Una criatura engullida por el montón en su primera forma puede oír el leve son
 >
 > El jugador que tenga en su poder la Esquirla de ámbar de Elisabeth Durst de la [[#Suite principal]] puede presentar el fragmento como una acción adicional mientras esté a 30 pies del **montón de carne**, decir en voz alta *“Walter”* y darle una orden breve. Si el jugador tiene éxito en una *tirada de Carisma (Intimidación) DC 13*, el montón debe inmediatamente usar su reacción, si es posible, para seguir dicha orden, utilizando toda su velocidad si fuera necesario. El montón no obedecerá una orden que sea directamente dañina para él y puede dejar de seguir dicha orden al inicio de su siguiente turno. Si no dispone de reacciones, el montón puede utilizar su acción adicional para seguir la orden.
 
-> [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> [!warning]+ **¡No utilices estrategias!**
+> Todos los enemigos en esta guía, incluyendo los jefes, has sido provados exhaustivamente y equilibrados utilizando el sistema de creación de encuentros por Niveles de Desafío 2.0. Todos los encuentros con jefes principales, incluyendo la pelea en dos fases contra el **montón de carne**, han sido calibradas para los jugadores pierdan la mayoría o todos sus puntos de golpe con el propósito de crear una pelea con peligro real y entretenida.
 > 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> Sin embargo, las estadísticas de estos jefes tienen suficientes puntos de golpe y realizan suficiente daño por ronda (DPR) como para asegurar que estos representan una amenaza adecuada sin necesidad de ninguna táctica o estrategia especial. En cierta medida, estas estrategias existen, se incluyen en las estadísticas y no requieran de ninguna planificación adicional por parte del *Dungeon Master*.
 > 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Así pues, a menos que tus jugadores demuestren que son altamente estratégicos y/o optimizados, **evita jugar con las estadísticas de estos jefes de una manera estratégica** – ya que si *lo haces*, lo más seguro es que provoques una TPK de tus jugadores. En su lugar, simplemente escoge aquellas acciones, acciones adicionales, reacciones y objetivos que resulten más interesantes y entretenidos para la ronda en curso.
 
 > [!combat]- **Combate - Montón de carne**
 > **Nivel de combate**: 2 encuentros magullantes consecutivos
@@ -1065,15 +1038,6 @@ Una criatura engullida por el montón en su primera forma puede oír el leve son
 > | 3 | <ul><li>Reduce los puntos de vida del montón a 56 para cada fase.</li><li>Reduce el ataque Golpe de la primera forma a 8 (2d6+1) de daño, o a 6 (2d4+1) de daño mientras el rasgo Dormilón esté activo.</li><li>Reduce las Astillas de hueso a 3 (1d4+1) de daño.</li><li>Reduce Engullir a 6 (2d4+1) de daño.</li><li>Reduce el daño del ataque Tentáculo a 9 (2d6+2), o a 4 (1d4+2) mientras Dormilón esté activo.</li><li>Reduce el daño del ataque Mordisco a 7 (2d4+2).</li><li>Reduce el daño de Rociada Sangrienta a 5 (2d4).</li></ul> |
 > | 4 | <ul><li>Reduce los puntos de vida del montón a 75 para cada fase.</li><li>Reduce el ataque Golpe de la primera forma a 11 (2d10+1) de daño, o a 8 (2d6+1) de daño mientras el rasgo Dormilón esté activo.</li><li>Reduce las Astillas de hueso a 4 (1d6+1) de daño.</li><li>Cambia Engullir a 8 (2d6+1) de daño.</li><li>educe el daño del ataque Tentáculo a 12 (2d10+1), o a 5 (1d8+1) mientras Dormilón esté activo.</li><li>Reduce el daño del ataque Mordisco a 9 (2d8+1).</li></ul> |
 > | 6 | <ul><li>Aumenta los puntos de vida del montón a 112 para cada.</li><li>Aumenta el ataque Golpe de la primera forma a 16 (2d12+3) de daño, o a 12 (2d8+3) de daño mientras el rasgo Dormilón esté activo.</li><li>Aumenta las Astillas de hueso a 6 (1d6+3) de daño.</li><li>Aumenta Engullir a 12 (2d8+3) de daño.</li><li>Aumenta el daño del ataque Tentáculo a 17 (4d6+3), o a 8 (2d4+3) mientras Dormilón esté activo.</li><li>Aumenta el  daño del ataque Mordisco a 14 (2d10+3).</li><li>Aumenta el daño de Rociada Sangrienta a 9 (2d8).</li></ul> |
-
-```statblock
-monster: Montón de Carne
-```
-
-```statblock
-monster: Walter, el Sepulcronato
-```
-
 
 <div class="statblock">
 <h2>El montón de carne</h2>
@@ -1234,10 +1198,6 @@ Si los jugadores intentan apartar o atacar a Gustav, un enjambre de escombros fl
 > | 3 | <ul><li>Reduce los puntos de golpe de Gustav a 13.</li><li>Reduce su ataque ***Golpe enérgico*** a 6 (3d4-1) de daño de fuerza y su ataque ***Empujón telequinético*** a 3 (1d6) de daño contundente.</li></ul> |
 > | 4 | <ul><li>Reduce los puntos de golpe de Gustav a 18.</li><li>Reduce su ataque ***Golpe enérgico*** a 8 (3d4+1) de daño de fuerza y su ataque ***Empujón telequinético*** a 4 (1d8) de daño contundente.</li></ul> |
 > | 6 | <ul><li>Aumenta los puntos de golpe de Gustav a 26.</li><li>Aumenta su ataque ***Golpe enérgico*** a 12 (3d6+2) de daño de fuerza y su ataque ***Empujón telequinético*** a 6 (1d12) de daño contundente.</li></ul> |
-
-```statblock
-monster: Poltergeist (Gustav)
-```
 
 Los jugadores pueden convencer a Gustav de que se aparte con un éxito en una *tirada de Carisma (Intimidación) CD 20*. Alternativamente, si los jugadores hacen referencia a la historia de Gustav con Elisabeth y Klara, pueden convencerle de que se aparte con un éxito en una *tirada de Carisma (Persuasión) CD 10*, teniendo éxito automáticamente si demuestran empatía o amabilidad hacia él o si piden a los espíritus de Rose y Thorn que les ayuden en su súplica. 
 
